@@ -1,0 +1,48 @@
+[
+    {
+        "name": "June",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Stockpiled",
+            "Cannot be traded"
+        ],
+        "civilopediaText": [
+            {
+                "text": "The scenario's calendar: the day of June. It is shown in the top bar next to the turn number."
+            },
+            {
+                "text": "June 6, D-Day: turns 0-16, one hour each. The night of June 6-7: turns 17-18. June 7: turns 19-27, two hours each. The night of June 7-8: turns 28-29. June 8: turns 30-38."
+            }
+        ]
+    },
+    {
+        "name": "Hour",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Stockpiled",
+            "Cannot be traded"
+        ],
+        "civilopediaText": [
+            {
+                "text": "The scenario's clock: the hour at the start of this turn, on the 24-hour clock (13 is 1 PM). It is shown in the top bar next to the turn number."
+            },
+            {
+                "text": "D-Day runs hour by hour from 6 AM to 10 PM; June 7 and 8 in two-hour turns from 5 AM. Each night passes in two turns, at midnight and 3 AM."
+            }
+        ]
+    },
+    {
+        "name": "History off",
+        "resourceType": "Strategic",
+        "uniques": [
+            "Stockpiled",
+            "Cannot be traded",
+            "Not shown on world screen"
+        ],
+        "civilopediaText": [
+            {
+                "text": "1 when you have turned off the scenario's history messages, otherwise 0."
+            }
+        ]
+    }
+]

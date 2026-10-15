@@ -1,0 +1,473 @@
+[
+    {
+        "name": "Headquarters",
+        "isNationalWonder": true,
+        "cost": 0,
+        "production": 3,
+        "gold": 3,
+        "cityStrength": 40,
+        "cityHealth": 300,
+        "uniques": [
+            "Indicates the capital city",
+            "[+25]% Production when constructing [Military] units [in this city]",
+            "Removes extra unhappiness from annexed cities"
+        ],
+        "civilopediaText": [
+            {
+                "text": "The army's headquarters, with its staff, signals and guard. Losing it means losing the army: in the D-Day scenario, capturing the German headquarters at Saint-Lô wins a Breakout victory."
+            },
+            {
+                "text": "It is far stronger than any other city: taking it needs a deliberate assault with artillery and several regiments. The Allied headquarters is aboard ship, out of reach of the German army."
+            }
+        ]
+    },
+    {
+        "name": "Supply Depot",
+        "cost": 50,
+        "production": 2,
+        "food": 1,
+        "gold": 2,
+        "cityStrength": 5,
+        "cityHealth": 25,
+        "uniques": [
+            "[+15]% Production when constructing [Military] units [in this city]",
+            "Removes extra unhappiness from annexed cities",
+            "Never destroyed when the city is captured"
+        ],
+        "civilopediaText": [
+            {
+                "text": "Dumps of ammunition, fuel and rations, with the trucks and the repair shops."
+            }
+        ]
+    },
+    {
+        "name": "Key Position",
+        "cost": 1,
+        "cityStrength": 4,
+        "cityHealth": 25,
+        "uniques": [
+            "Normandy Scenario",
+            "Unbuildable",
+            "Unsellable",
+            "Never destroyed when the city is captured",
+            "Removes extra unhappiness from annexed cities"
+        ],
+        "civilopediaText": [
+            {
+                "text": "One of the 13 key positions of the D-Day scenario: Utah Beach, Sainte-Mère-Église, Carentan, Pointe du Hoc, Omaha Beach, Port-en-Bessin, Gold Beach, Bayeux, Juno Beach, Carpiquet, Caen, Sword Beach and Pegasus Bridge."
+            },
+            {
+                "text": "Each is a city that cannot be razed. Sainte-Mère-Église and Pegasus Bridge start in Allied hands - taken by the airborne in the night; the rest are held by the Germans. At the end of turn 38 (9 PM, June 8) the Allies win Hold the Beachhead if they hold at least 10 key positions; otherwise Germany wins Contain the Invasion."
+            }
+        ]
+    },
+    {
+        "name": "Beach Defenses",
+        "cost": 1,
+        "cityStrength": 6,
+        "cityHealth": 25,
+        "uniques": [
+            "Normandy Scenario",
+            "Unbuildable",
+            "Unsellable",
+            "Never destroyed when the city is captured",
+            "Removes extra unhappiness from annexed cities"
+        ],
+        "civilopediaText": [
+            {
+                "text": "A Widerstandsnest of the Atlantic Wall: concrete bunkers and casemates, machine-gun nests, a 50mm or 75mm gun sited to fire along the beach, trenches, wire and mines - and, below the high-water mark, thousands of steel hedgehogs, stakes and ramps, many topped with mines."
+            },
+            {
+                "text": "The five beaches - Utah Beach, Omaha Beach, Gold Beach, Juno Beach and Sword Beach - are key positions. Once the Allies hold a beach, its follow-up waves come ashore there instead of landing from the sea. If the Germans hold all five at the end of any turn from turn 10 (4 PM, June 6) onward, they win the Into the Sea victory."
+            }
+        ]
+    },
+    {
+        "name": "Transport Area",
+        "cost": 1,
+        "uniques": [
+            "Normandy Scenario",
+            "Unbuildable",
+            "Unsellable",
+            "Removes extra unhappiness from annexed cities"
+        ],
+        "civilopediaText": [
+            {
+                "text": "An assault force anchored in the Transport Area, eleven miles out: transports, landing ships, the headquarters ship and the bombarding warships."
+            },
+            {
+                "text": "Follow-up waves are lowered into their landing craft here and appear embarked beside it at the start of their turn. Landing craft move 5 tiles; landing on a beach takes the rest of the turn (Rangers, Commandos and DD tanks land without stopping). Once ashore, troops cannot re-embark."
+            }
+        ]
+    },
+    {
+        "name": "Allied Arrivals: Force U",
+        "cost": 1,
+        "uniqueTo": "Allies",
+        "uniques": [
+            "Normandy Scenario",
+            "Unbuildable",
+            "Unsellable",
+            "Free [US General] appears <upon turn start> <after turn number [2]> <before turn number [3]> <for [Allies] Civilizations> <if [Landing Point: Utah Beach] is not constructed>",
+            "Free [US Infantry] appears <upon turn start> <after turn number [3]> <before turn number [4]> <for [Allies] Civilizations> <if [Landing Point: Utah Beach] is not constructed>",
+            "Free [Sherman] appears <upon turn start> <after turn number [4]> <before turn number [5]> <for [Allies] Civilizations> <if [Landing Point: Utah Beach] is not constructed>",
+            "Free [US Artillery] appears <upon turn start> <after turn number [5]> <before turn number [6]> <for [Allies] Civilizations> <if [Landing Point: Utah Beach] is not constructed>",
+            "Free [M10 Tank Destroyer] appears <upon turn start> <after turn number [8]> <before turn number [9]> <for [Allies] Civilizations> <if [Landing Point: Utah Beach] is not constructed>",
+            "Free [US Infantry] appears <upon turn start> <after turn number [10]> <before turn number [11]> <for [Allies] Civilizations> <if [Landing Point: Utah Beach] is not constructed>",
+            "Free [Medics] appears <upon turn start> <after turn number [12]> <before turn number [13]> <for [Allies] Civilizations> <if [Landing Point: Utah Beach] is not constructed>",
+            "Free [US General] appears <upon turn start> <after turn number [19]> <before turn number [20]> <for [Allies] Civilizations> <if [Landing Point: Utah Beach] is not constructed>",
+            "Free [US Paratroopers] appears <upon turn start> <after turn number [20]> <before turn number [21]> <for [Allies] Civilizations> <if [Landing Point: Utah Beach] is not constructed>",
+            "Free [US Infantry] appears <upon turn start> <after turn number [21]> <before turn number [22]> <for [Allies] Civilizations> <if [Landing Point: Utah Beach] is not constructed>",
+            "Free [US Infantry] appears <upon turn start> <after turn number [23]> <before turn number [24]> <for [Allies] Civilizations> <if [Landing Point: Utah Beach] is not constructed>",
+            "Free [US Artillery] appears <upon turn start> <after turn number [25]> <before turn number [26]> <for [Allies] Civilizations> <if [Landing Point: Utah Beach] is not constructed>",
+            "Free [US Artillery] appears <upon turn start> <after turn number [32]> <before turn number [33]> <for [Allies] Civilizations> <if [Landing Point: Utah Beach] is not constructed>"
+        ],
+        "replacementTextForUniques": "Order of the follow-up waves for Utah Beach.\nRear Admiral Don P. Moon's Force U, flagship USS Bayfield: the transports, landing ships and gunfire support ships for Utah Beach, anchored in the Transport Area about eleven miles off the Cotentin shore.\n\nTurn 2 (8 AM, June 6): Raymond O. Barton\nTurn 3 (9 AM, June 6): 12th Infantry (Reeder)\nTurn 4 (10 AM, June 6): 746th Tank Battalion\nTurn 5 (11 AM, June 6): 4th Division Artillery\nTurn 8 (2 PM, June 6): 899th Tank Destroyer Battalion\nTurn 10 (4 PM, June 6): 359th Infantry (90th Division)\nTurn 12 (6 PM, June 6): Medics\nTurn 19 (5 AM, June 7): J. Lawton Collins\nTurn 20 (7 AM, June 7): 327th Glider Infantry\nTurn 21 (9 AM, June 7): 357th Infantry (90th Division)\nTurn 23 (1 PM, June 7): 358th Infantry (90th Division)\nTurn 25 (5 PM, June 7): 90th Division Artillery\nTurn 32 (9 AM, June 8): VII Corps Artillery\n\nThey appear in their landing craft beside the fleet at the start of the listed turn and must sail in and land. Once Utah Beach is in Allied hands, the troops (not the ships) come ashore there instead - and if the Germans retake it, the waves land from the sea again."
+    },
+    {
+        "name": "Landing Point: Utah Beach",
+        "cost": 1,
+        "uniques": [
+            "Normandy Scenario",
+            "Unbuildable",
+            "Unsellable",
+            "Never destroyed when the city is captured",
+            "Free [US General] appears <upon turn start> <after turn number [2]> <before turn number [3]> <for [Allies] Civilizations>",
+            "Free [US Infantry] appears <upon turn start> <after turn number [3]> <before turn number [4]> <for [Allies] Civilizations>",
+            "Free [Sherman] appears <upon turn start> <after turn number [4]> <before turn number [5]> <for [Allies] Civilizations>",
+            "Free [US Artillery] appears <upon turn start> <after turn number [5]> <before turn number [6]> <for [Allies] Civilizations>",
+            "Free [M10 Tank Destroyer] appears <upon turn start> <after turn number [8]> <before turn number [9]> <for [Allies] Civilizations>",
+            "Free [US Infantry] appears <upon turn start> <after turn number [10]> <before turn number [11]> <for [Allies] Civilizations>",
+            "Free [Medics] appears <upon turn start> <after turn number [12]> <before turn number [13]> <for [Allies] Civilizations>",
+            "Free [US General] appears <upon turn start> <after turn number [19]> <before turn number [20]> <for [Allies] Civilizations>",
+            "Free [US Paratroopers] appears <upon turn start> <after turn number [20]> <before turn number [21]> <for [Allies] Civilizations>",
+            "Free [US Infantry] appears <upon turn start> <after turn number [21]> <before turn number [22]> <for [Allies] Civilizations>",
+            "Free [US Infantry] appears <upon turn start> <after turn number [23]> <before turn number [24]> <for [Allies] Civilizations>",
+            "Free [US Artillery] appears <upon turn start> <after turn number [25]> <before turn number [26]> <for [Allies] Civilizations>",
+            "Free [US Artillery] appears <upon turn start> <after turn number [32]> <before turn number [33]> <for [Allies] Civilizations>"
+        ],
+        "replacementTextForUniques": "Follow-up waves for Utah Beach, while the Allies hold it.\n\nTurn 2 (8 AM, June 6): Raymond O. Barton\nTurn 3 (9 AM, June 6): 12th Infantry (Reeder)\nTurn 4 (10 AM, June 6): 746th Tank Battalion\nTurn 5 (11 AM, June 6): 4th Division Artillery\nTurn 8 (2 PM, June 6): 899th Tank Destroyer Battalion\nTurn 10 (4 PM, June 6): 359th Infantry (90th Division)\nTurn 12 (6 PM, June 6): Medics\nTurn 19 (5 AM, June 7): J. Lawton Collins\nTurn 20 (7 AM, June 7): 327th Glider Infantry\nTurn 21 (9 AM, June 7): 357th Infantry (90th Division)\nTurn 23 (1 PM, June 7): 358th Infantry (90th Division)\nTurn 25 (5 PM, June 7): 90th Division Artillery\nTurn 32 (9 AM, June 8): VII Corps Artillery\n\nWhile the Allies hold Utah Beach, these troops come ashore here at the start of the listed turn instead of appearing in their landing craft beside Force U. While the Germans hold it, nothing happens here."
+    },
+    {
+        "name": "Allied Arrivals: Force O",
+        "cost": 1,
+        "uniqueTo": "Allies",
+        "uniques": [
+            "Normandy Scenario",
+            "Unbuildable",
+            "Unsellable",
+            "Free [US Infantry] appears <upon turn start> <after turn number [2]> <before turn number [3]> <for [Allies] Civilizations> <if [Landing Point: Omaha Beach] is not constructed>",
+            "[2] free [Destroyer] units appear <upon turn start> <after turn number [3]> <before turn number [4]> <for [Allies] Civilizations>",
+            "Free [US Infantry] appears <upon turn start> <after turn number [4]> <before turn number [5]> <for [Allies] Civilizations> <if [Landing Point: Omaha Beach] is not constructed>",
+            "Free [US Artillery] appears <upon turn start> <after turn number [6]> <before turn number [7]> <for [Allies] Civilizations> <if [Landing Point: Omaha Beach] is not constructed>",
+            "Free [Combat Engineers] appears <upon turn start> <after turn number [7]> <before turn number [8]> <for [Allies] Civilizations> <if [Landing Point: Omaha Beach] is not constructed>",
+            "Free [US Infantry] appears <upon turn start> <after turn number [8]> <before turn number [9]> <for [Allies] Civilizations> <if [Landing Point: Omaha Beach] is not constructed>",
+            "Free [US General] appears <upon turn start> <after turn number [9]> <before turn number [10]> <for [Allies] Civilizations> <if [Landing Point: Omaha Beach] is not constructed>",
+            "Free [US Artillery] appears <upon turn start> <after turn number [11]> <before turn number [12]> <for [Allies] Civilizations> <if [Landing Point: Omaha Beach] is not constructed>",
+            "Free [US General] appears <upon turn start> <after turn number [13]> <before turn number [14]> <for [Allies] Civilizations> <if [Landing Point: Omaha Beach] is not constructed>",
+            "Free [Sherman] appears <upon turn start> <after turn number [14]> <before turn number [15]> <for [Allies] Civilizations> <if [Landing Point: Omaha Beach] is not constructed>",
+            "Free [US Infantry] appears <upon turn start> <after turn number [19]> <before turn number [20]> <for [Allies] Civilizations> <if [Landing Point: Omaha Beach] is not constructed>",
+            "Free [Sherman] appears <upon turn start> <after turn number [20]> <before turn number [21]> <for [Allies] Civilizations> <if [Landing Point: Omaha Beach] is not constructed>",
+            "Free [US Infantry] appears <upon turn start> <after turn number [22]> <before turn number [23]> <for [Allies] Civilizations> <if [Landing Point: Omaha Beach] is not constructed>",
+            "Free [US Infantry] appears <upon turn start> <after turn number [24]> <before turn number [25]> <for [Allies] Civilizations> <if [Landing Point: Omaha Beach] is not constructed>",
+            "Free [M10 Tank Destroyer] appears <upon turn start> <after turn number [25]> <before turn number [26]> <for [Allies] Civilizations> <if [Landing Point: Omaha Beach] is not constructed>",
+            "Free [US Infantry] appears <upon turn start> <after turn number [30]> <before turn number [31]> <for [Allies] Civilizations> <if [Landing Point: Omaha Beach] is not constructed>",
+            "Free [US Artillery] appears <upon turn start> <after turn number [31]> <before turn number [32]> <for [Allies] Civilizations> <if [Landing Point: Omaha Beach] is not constructed>"
+        ],
+        "replacementTextForUniques": "Order of the follow-up waves for Omaha Beach.\nRear Admiral John L. Hall's Force O, flagship USS Ancon, for Omaha Beach. General Omar Bradley, commanding the US First Army, watched the landings from the cruiser USS Augusta nearby.\n\nTurn 2 (8 AM, June 6): 18th Infantry (1st Division)\nTurn 3 (9 AM, June 6): USS McCook; USS Carmick\nTurn 4 (10 AM, June 6): 115th Infantry (29th Division)\nTurn 6 (Noon, June 6): 7th Field Artillery (1st Division)\nTurn 7 (1 PM, June 6): 5th Engineer Special Brigade\nTurn 8 (2 PM, June 6): 26th Infantry (1st Division)\nTurn 9 (3 PM, June 6): Charles H. Gerhardt\nTurn 11 (5 PM, June 6): 29th Division Artillery\nTurn 13 (7 PM, June 6): Leonard T. Gerow\nTurn 14 (8 PM, June 6): 745th Tank Battalion\nTurn 19 (5 AM, June 7): 175th Infantry (29th Division)\nTurn 20 (7 AM, June 7): 747th Tank Battalion\nTurn 22 (11 AM, June 7): 9th Infantry (2nd Division)\nTurn 24 (3 PM, June 7): 38th Infantry (2nd Division)\nTurn 25 (5 PM, June 7): 635th Tank Destroyer Battalion\nTurn 30 (5 AM, June 8): 23rd Infantry (2nd Division)\nTurn 31 (7 AM, June 8): 2nd Division Artillery\n\nThey appear in their landing craft beside the fleet at the start of the listed turn and must sail in and land. Once Omaha Beach is in Allied hands, the troops (not the ships) come ashore there instead - and if the Germans retake it, the waves land from the sea again."
+    },
+    {
+        "name": "Landing Point: Omaha Beach",
+        "cost": 1,
+        "uniques": [
+            "Normandy Scenario",
+            "Unbuildable",
+            "Unsellable",
+            "Never destroyed when the city is captured",
+            "Free [US Infantry] appears <upon turn start> <after turn number [2]> <before turn number [3]> <for [Allies] Civilizations>",
+            "Free [US Infantry] appears <upon turn start> <after turn number [4]> <before turn number [5]> <for [Allies] Civilizations>",
+            "Free [US Artillery] appears <upon turn start> <after turn number [6]> <before turn number [7]> <for [Allies] Civilizations>",
+            "Free [Combat Engineers] appears <upon turn start> <after turn number [7]> <before turn number [8]> <for [Allies] Civilizations>",
+            "Free [US Infantry] appears <upon turn start> <after turn number [8]> <before turn number [9]> <for [Allies] Civilizations>",
+            "Free [US General] appears <upon turn start> <after turn number [9]> <before turn number [10]> <for [Allies] Civilizations>",
+            "Free [US Artillery] appears <upon turn start> <after turn number [11]> <before turn number [12]> <for [Allies] Civilizations>",
+            "Free [US General] appears <upon turn start> <after turn number [13]> <before turn number [14]> <for [Allies] Civilizations>",
+            "Free [Sherman] appears <upon turn start> <after turn number [14]> <before turn number [15]> <for [Allies] Civilizations>",
+            "Free [US Infantry] appears <upon turn start> <after turn number [19]> <before turn number [20]> <for [Allies] Civilizations>",
+            "Free [Sherman] appears <upon turn start> <after turn number [20]> <before turn number [21]> <for [Allies] Civilizations>",
+            "Free [US Infantry] appears <upon turn start> <after turn number [22]> <before turn number [23]> <for [Allies] Civilizations>",
+            "Free [US Infantry] appears <upon turn start> <after turn number [24]> <before turn number [25]> <for [Allies] Civilizations>",
+            "Free [M10 Tank Destroyer] appears <upon turn start> <after turn number [25]> <before turn number [26]> <for [Allies] Civilizations>",
+            "Free [US Infantry] appears <upon turn start> <after turn number [30]> <before turn number [31]> <for [Allies] Civilizations>",
+            "Free [US Artillery] appears <upon turn start> <after turn number [31]> <before turn number [32]> <for [Allies] Civilizations>"
+        ],
+        "replacementTextForUniques": "Follow-up waves for Omaha Beach, while the Allies hold it.\n\nTurn 2 (8 AM, June 6): 18th Infantry (1st Division)\nTurn 4 (10 AM, June 6): 115th Infantry (29th Division)\nTurn 6 (Noon, June 6): 7th Field Artillery (1st Division)\nTurn 7 (1 PM, June 6): 5th Engineer Special Brigade\nTurn 8 (2 PM, June 6): 26th Infantry (1st Division)\nTurn 9 (3 PM, June 6): Charles H. Gerhardt\nTurn 11 (5 PM, June 6): 29th Division Artillery\nTurn 13 (7 PM, June 6): Leonard T. Gerow\nTurn 14 (8 PM, June 6): 745th Tank Battalion\nTurn 19 (5 AM, June 7): 175th Infantry (29th Division)\nTurn 20 (7 AM, June 7): 747th Tank Battalion\nTurn 22 (11 AM, June 7): 9th Infantry (2nd Division)\nTurn 24 (3 PM, June 7): 38th Infantry (2nd Division)\nTurn 25 (5 PM, June 7): 635th Tank Destroyer Battalion\nTurn 30 (5 AM, June 8): 23rd Infantry (2nd Division)\nTurn 31 (7 AM, June 8): 2nd Division Artillery\n\nWhile the Allies hold Omaha Beach, these troops come ashore here at the start of the listed turn instead of appearing in their landing craft beside Force O. While the Germans hold it, nothing happens here."
+    },
+    {
+        "name": "Allied Arrivals: Force G",
+        "cost": 1,
+        "uniqueTo": "Allies",
+        "uniques": [
+            "Normandy Scenario",
+            "Unbuildable",
+            "Unsellable",
+            "Free [Sherman] appears <upon turn start> <after turn number [2]> <before turn number [3]> <for [Allies] Civilizations> <if [Landing Point: Gold Beach] is not constructed>",
+            "Free [British Infantry] appears <upon turn start> <after turn number [3]> <before turn number [4]> <for [Allies] Civilizations> <if [Landing Point: Gold Beach] is not constructed>",
+            "Free [British General] appears <upon turn start> <after turn number [3]> <before turn number [4]> <for [Allies] Civilizations> <if [Landing Point: Gold Beach] is not constructed>",
+            "Free [British Infantry] appears <upon turn start> <after turn number [4]> <before turn number [5]> <for [Allies] Civilizations> <if [Landing Point: Gold Beach] is not constructed>",
+            "Free [Royal Artillery] appears <upon turn start> <after turn number [5]> <before turn number [6]> <for [Allies] Civilizations> <if [Landing Point: Gold Beach] is not constructed>",
+            "Free [Sherman] appears <upon turn start> <after turn number [6]> <before turn number [7]> <for [Allies] Civilizations> <if [Landing Point: Gold Beach] is not constructed>",
+            "Free [Medics] appears <upon turn start> <after turn number [7]> <before turn number [8]> <for [Allies] Civilizations> <if [Landing Point: Gold Beach] is not constructed>",
+            "Free [Allied Anti-Tank Guns] appears <upon turn start> <after turn number [9]> <before turn number [10]> <for [Allies] Civilizations> <if [Landing Point: Gold Beach] is not constructed>",
+            "Free [British General] appears <upon turn start> <after turn number [19]> <before turn number [20]> <for [Allies] Civilizations> <if [Landing Point: Gold Beach] is not constructed>",
+            "Free [Cromwell] appears <upon turn start> <after turn number [20]> <before turn number [21]> <for [Allies] Civilizations> <if [Landing Point: Gold Beach] is not constructed>",
+            "Free [British General] appears <upon turn start> <after turn number [21]> <before turn number [22]> <for [Allies] Civilizations> <if [Landing Point: Gold Beach] is not constructed>",
+            "Free [Cromwell] appears <upon turn start> <after turn number [22]> <before turn number [23]> <for [Allies] Civilizations> <if [Landing Point: Gold Beach] is not constructed>",
+            "Free [British Infantry] appears <upon turn start> <after turn number [23]> <before turn number [24]> <for [Allies] Civilizations> <if [Landing Point: Gold Beach] is not constructed>",
+            "Free [British General] appears <upon turn start> <after turn number [30]> <before turn number [31]> <for [Allies] Civilizations> <if [Landing Point: Gold Beach] is not constructed>",
+            "Free [Cromwell] appears <upon turn start> <after turn number [31]> <before turn number [32]> <for [Allies] Civilizations> <if [Landing Point: Gold Beach] is not constructed>"
+        ],
+        "replacementTextForUniques": "Order of the follow-up waves for Gold Beach.\nCommodore C. E. Douglas-Pennant's Force G, headquarters ship HMS Bulolo, carrying the British 50th Division to Gold Beach, in the middle of the five beaches. This is the Allied headquarters.\n\nTurn 2 (8 AM, June 6): Sherwood Rangers Yeomanry\nTurn 3 (9 AM, June 6): 151st Brigade (Senior); Douglas Graham\nTurn 4 (10 AM, June 6): 56th Brigade (Pepper)\nTurn 5 (11 AM, June 6): 50th Division Artillery\nTurn 6 (Noon, June 6): 24th Lancers\nTurn 7 (1 PM, June 6): Medics\nTurn 9 (3 PM, June 6): 102nd Anti-Tank Regiment\nTurn 19 (5 AM, June 7): Gerard Bucknall\nTurn 20 (7 AM, June 7): 22nd Armoured Brigade (7th Armoured)\nTurn 21 (9 AM, June 7): G. W. E. J. Erskine\nTurn 22 (11 AM, June 7): 8th King's Royal Irish Hussars\nTurn 23 (1 PM, June 7): 131st Brigade (7th Armoured)\nTurn 30 (5 AM, June 8): Bernard L. Montgomery\nTurn 31 (7 AM, June 8): 11th Hussars\n\nThey appear in their landing craft beside the fleet at the start of the listed turn and must sail in and land. Once Gold Beach is in Allied hands, the troops (not the ships) come ashore there instead - and if the Germans retake it, the waves land from the sea again."
+    },
+    {
+        "name": "Landing Point: Gold Beach",
+        "cost": 1,
+        "uniques": [
+            "Normandy Scenario",
+            "Unbuildable",
+            "Unsellable",
+            "Never destroyed when the city is captured",
+            "Free [Sherman] appears <upon turn start> <after turn number [2]> <before turn number [3]> <for [Allies] Civilizations>",
+            "Free [British Infantry] appears <upon turn start> <after turn number [3]> <before turn number [4]> <for [Allies] Civilizations>",
+            "Free [British General] appears <upon turn start> <after turn number [3]> <before turn number [4]> <for [Allies] Civilizations>",
+            "Free [British Infantry] appears <upon turn start> <after turn number [4]> <before turn number [5]> <for [Allies] Civilizations>",
+            "Free [Royal Artillery] appears <upon turn start> <after turn number [5]> <before turn number [6]> <for [Allies] Civilizations>",
+            "Free [Sherman] appears <upon turn start> <after turn number [6]> <before turn number [7]> <for [Allies] Civilizations>",
+            "Free [Medics] appears <upon turn start> <after turn number [7]> <before turn number [8]> <for [Allies] Civilizations>",
+            "Free [Allied Anti-Tank Guns] appears <upon turn start> <after turn number [9]> <before turn number [10]> <for [Allies] Civilizations>",
+            "Free [British General] appears <upon turn start> <after turn number [19]> <before turn number [20]> <for [Allies] Civilizations>",
+            "Free [Cromwell] appears <upon turn start> <after turn number [20]> <before turn number [21]> <for [Allies] Civilizations>",
+            "Free [British General] appears <upon turn start> <after turn number [21]> <before turn number [22]> <for [Allies] Civilizations>",
+            "Free [Cromwell] appears <upon turn start> <after turn number [22]> <before turn number [23]> <for [Allies] Civilizations>",
+            "Free [British Infantry] appears <upon turn start> <after turn number [23]> <before turn number [24]> <for [Allies] Civilizations>",
+            "Free [British General] appears <upon turn start> <after turn number [30]> <before turn number [31]> <for [Allies] Civilizations>",
+            "Free [Cromwell] appears <upon turn start> <after turn number [31]> <before turn number [32]> <for [Allies] Civilizations>"
+        ],
+        "replacementTextForUniques": "Follow-up waves for Gold Beach, while the Allies hold it.\n\nTurn 2 (8 AM, June 6): Sherwood Rangers Yeomanry\nTurn 3 (9 AM, June 6): 151st Brigade (Senior); Douglas Graham\nTurn 4 (10 AM, June 6): 56th Brigade (Pepper)\nTurn 5 (11 AM, June 6): 50th Division Artillery\nTurn 6 (Noon, June 6): 24th Lancers\nTurn 7 (1 PM, June 6): Medics\nTurn 9 (3 PM, June 6): 102nd Anti-Tank Regiment\nTurn 19 (5 AM, June 7): Gerard Bucknall\nTurn 20 (7 AM, June 7): 22nd Armoured Brigade (7th Armoured)\nTurn 21 (9 AM, June 7): G. W. E. J. Erskine\nTurn 22 (11 AM, June 7): 8th King's Royal Irish Hussars\nTurn 23 (1 PM, June 7): 131st Brigade (7th Armoured)\nTurn 30 (5 AM, June 8): Bernard L. Montgomery\nTurn 31 (7 AM, June 8): 11th Hussars\n\nWhile the Allies hold Gold Beach, these troops come ashore here at the start of the listed turn instead of appearing in their landing craft beside Force G. While the Germans hold it, nothing happens here."
+    },
+    {
+        "name": "Allied Arrivals: Force J",
+        "cost": 1,
+        "uniqueTo": "Allies",
+        "uniques": [
+            "Normandy Scenario",
+            "Unbuildable",
+            "Unsellable",
+            "Free [British General] appears <upon turn start> <after turn number [2]> <before turn number [3]> <for [Allies] Civilizations> <if [Landing Point: Juno Beach] is not constructed>",
+            "Free [Canadian Infantry] appears <upon turn start> <after turn number [3]> <before turn number [4]> <for [Allies] Civilizations> <if [Landing Point: Juno Beach] is not constructed>",
+            "Free [Royal Artillery] appears <upon turn start> <after turn number [4]> <before turn number [5]> <for [Allies] Civilizations> <if [Landing Point: Juno Beach] is not constructed>",
+            "Free [Sherman] appears <upon turn start> <after turn number [5]> <before turn number [6]> <for [Allies] Civilizations> <if [Landing Point: Juno Beach] is not constructed>",
+            "Free [Allied Anti-Tank Guns] appears <upon turn start> <after turn number [8]> <before turn number [9]> <for [Allies] Civilizations> <if [Landing Point: Juno Beach] is not constructed>",
+            "Free [Combat Engineers] appears <upon turn start> <after turn number [10]> <before turn number [11]> <for [Allies] Civilizations> <if [Landing Point: Juno Beach] is not constructed>",
+            "Free [British General] appears <upon turn start> <after turn number [20]> <before turn number [21]> <for [Allies] Civilizations> <if [Landing Point: Juno Beach] is not constructed>",
+            "Free [British Infantry] appears <upon turn start> <after turn number [21]> <before turn number [22]> <for [Allies] Civilizations> <if [Landing Point: Juno Beach] is not constructed>",
+            "Free [Royal Artillery] appears <upon turn start> <after turn number [30]> <before turn number [31]> <for [Allies] Civilizations> <if [Landing Point: Juno Beach] is not constructed>",
+            "Free [Sherman] appears <upon turn start> <after turn number [33]> <before turn number [34]> <for [Allies] Civilizations> <if [Landing Point: Juno Beach] is not constructed>"
+        ],
+        "replacementTextForUniques": "Order of the follow-up waves for Juno Beach.\nCommodore G. N. Oliver's Force J, headquarters ship HMS Hilary, carrying the 3rd Canadian Division to Juno Beach.\n\nTurn 2 (8 AM, June 6): Rod Keller\nTurn 3 (9 AM, June 6): 9th Canadian Brigade (Cunningham)\nTurn 4 (10 AM, June 6): 3rd Canadian Division Artillery\nTurn 5 (11 AM, June 6): Sherbrooke Fusiliers\nTurn 8 (2 PM, June 6): 3rd Canadian Anti-Tank Regiment\nTurn 10 (4 PM, June 6): Royal Canadian Engineers\nTurn 20 (7 AM, June 7): John Crocker\nTurn 21 (9 AM, June 7): 153rd Brigade (51st Highland)\nTurn 30 (5 AM, June 8): I Corps Artillery\nTurn 33 (11 AM, June 8): 4th Armoured Brigade\n\nThey appear in their landing craft beside the fleet at the start of the listed turn and must sail in and land. Once Juno Beach is in Allied hands, the troops (not the ships) come ashore there instead - and if the Germans retake it, the waves land from the sea again."
+    },
+    {
+        "name": "Landing Point: Juno Beach",
+        "cost": 1,
+        "uniques": [
+            "Normandy Scenario",
+            "Unbuildable",
+            "Unsellable",
+            "Never destroyed when the city is captured",
+            "Free [British General] appears <upon turn start> <after turn number [2]> <before turn number [3]> <for [Allies] Civilizations>",
+            "Free [Canadian Infantry] appears <upon turn start> <after turn number [3]> <before turn number [4]> <for [Allies] Civilizations>",
+            "Free [Royal Artillery] appears <upon turn start> <after turn number [4]> <before turn number [5]> <for [Allies] Civilizations>",
+            "Free [Sherman] appears <upon turn start> <after turn number [5]> <before turn number [6]> <for [Allies] Civilizations>",
+            "Free [Allied Anti-Tank Guns] appears <upon turn start> <after turn number [8]> <before turn number [9]> <for [Allies] Civilizations>",
+            "Free [Combat Engineers] appears <upon turn start> <after turn number [10]> <before turn number [11]> <for [Allies] Civilizations>",
+            "Free [British General] appears <upon turn start> <after turn number [20]> <before turn number [21]> <for [Allies] Civilizations>",
+            "Free [British Infantry] appears <upon turn start> <after turn number [21]> <before turn number [22]> <for [Allies] Civilizations>",
+            "Free [Royal Artillery] appears <upon turn start> <after turn number [30]> <before turn number [31]> <for [Allies] Civilizations>",
+            "Free [Sherman] appears <upon turn start> <after turn number [33]> <before turn number [34]> <for [Allies] Civilizations>"
+        ],
+        "replacementTextForUniques": "Follow-up waves for Juno Beach, while the Allies hold it.\n\nTurn 2 (8 AM, June 6): Rod Keller\nTurn 3 (9 AM, June 6): 9th Canadian Brigade (Cunningham)\nTurn 4 (10 AM, June 6): 3rd Canadian Division Artillery\nTurn 5 (11 AM, June 6): Sherbrooke Fusiliers\nTurn 8 (2 PM, June 6): 3rd Canadian Anti-Tank Regiment\nTurn 10 (4 PM, June 6): Royal Canadian Engineers\nTurn 20 (7 AM, June 7): John Crocker\nTurn 21 (9 AM, June 7): 153rd Brigade (51st Highland)\nTurn 30 (5 AM, June 8): I Corps Artillery\nTurn 33 (11 AM, June 8): 4th Armoured Brigade\n\nWhile the Allies hold Juno Beach, these troops come ashore here at the start of the listed turn instead of appearing in their landing craft beside Force J. While the Germans hold it, nothing happens here."
+    },
+    {
+        "name": "Allied Arrivals: Force S",
+        "cost": 1,
+        "uniqueTo": "Allies",
+        "uniques": [
+            "Normandy Scenario",
+            "Unbuildable",
+            "Unsellable",
+            "Free [British Infantry] appears <upon turn start> <after turn number [2]> <before turn number [3]> <for [Allies] Civilizations> <if [Landing Point: Sword Beach] is not constructed>",
+            "Free [Sherman Firefly] appears <upon turn start> <after turn number [2]> <before turn number [3]> <for [Allies] Civilizations> <if [Landing Point: Sword Beach] is not constructed>",
+            "Free [British General] appears <upon turn start> <after turn number [4]> <before turn number [5]> <for [Allies] Civilizations> <if [Landing Point: Sword Beach] is not constructed>",
+            "Free [British Infantry] appears <upon turn start> <after turn number [5]> <before turn number [6]> <for [Allies] Civilizations> <if [Landing Point: Sword Beach] is not constructed>",
+            "Free [Royal Artillery] appears <upon turn start> <after turn number [6]> <before turn number [7]> <for [Allies] Civilizations> <if [Landing Point: Sword Beach] is not constructed>",
+            "Free [Sherman] appears <upon turn start> <after turn number [7]> <before turn number [8]> <for [Allies] Civilizations> <if [Landing Point: Sword Beach] is not constructed>",
+            "Free [Allied Anti-Tank Guns] appears <upon turn start> <after turn number [11]> <before turn number [12]> <for [Allies] Civilizations> <if [Landing Point: Sword Beach] is not constructed>",
+            "Free [Commandos] appears <upon turn start> <after turn number [20]> <before turn number [21]> <for [Allies] Civilizations> <if [Landing Point: Sword Beach] is not constructed>",
+            "Free [British Infantry] appears <upon turn start> <after turn number [24]> <before turn number [25]> <for [Allies] Civilizations> <if [Landing Point: Sword Beach] is not constructed>",
+            "Free [British General] appears <upon turn start> <after turn number [32]> <before turn number [33]> <for [Allies] Civilizations> <if [Landing Point: Sword Beach] is not constructed>"
+        ],
+        "replacementTextForUniques": "Order of the follow-up waves for Sword Beach.\nRear Admiral Arthur Talbot's Force S, headquarters ship HMS Largs, carrying the British 3rd Division to Sword Beach.\n\nTurn 2 (8 AM, June 6): 185th Brigade (Smith); Staffordshire Yeomanry\nTurn 4 (10 AM, June 6): Tom Rennie\nTurn 5 (11 AM, June 6): 9th Brigade (Cunningham)\nTurn 6 (Noon, June 6): 3rd Division Artillery\nTurn 7 (1 PM, June 6): East Riding Yeomanry\nTurn 11 (5 PM, June 6): 20th Anti-Tank Regiment\nTurn 20 (7 AM, June 7): 46 Royal Marine Commando\nTurn 24 (3 PM, June 7): 152nd Brigade (51st Highland)\nTurn 32 (9 AM, June 8): Miles Dempsey\n\nThey appear in their landing craft beside the fleet at the start of the listed turn and must sail in and land. Once Sword Beach is in Allied hands, the troops (not the ships) come ashore there instead - and if the Germans retake it, the waves land from the sea again."
+    },
+    {
+        "name": "Landing Point: Sword Beach",
+        "cost": 1,
+        "uniques": [
+            "Normandy Scenario",
+            "Unbuildable",
+            "Unsellable",
+            "Never destroyed when the city is captured",
+            "Free [British Infantry] appears <upon turn start> <after turn number [2]> <before turn number [3]> <for [Allies] Civilizations>",
+            "Free [Sherman Firefly] appears <upon turn start> <after turn number [2]> <before turn number [3]> <for [Allies] Civilizations>",
+            "Free [British General] appears <upon turn start> <after turn number [4]> <before turn number [5]> <for [Allies] Civilizations>",
+            "Free [British Infantry] appears <upon turn start> <after turn number [5]> <before turn number [6]> <for [Allies] Civilizations>",
+            "Free [Royal Artillery] appears <upon turn start> <after turn number [6]> <before turn number [7]> <for [Allies] Civilizations>",
+            "Free [Sherman] appears <upon turn start> <after turn number [7]> <before turn number [8]> <for [Allies] Civilizations>",
+            "Free [Allied Anti-Tank Guns] appears <upon turn start> <after turn number [11]> <before turn number [12]> <for [Allies] Civilizations>",
+            "Free [Commandos] appears <upon turn start> <after turn number [20]> <before turn number [21]> <for [Allies] Civilizations>",
+            "Free [British Infantry] appears <upon turn start> <after turn number [24]> <before turn number [25]> <for [Allies] Civilizations>",
+            "Free [British General] appears <upon turn start> <after turn number [32]> <before turn number [33]> <for [Allies] Civilizations>"
+        ],
+        "replacementTextForUniques": "Follow-up waves for Sword Beach, while the Allies hold it.\n\nTurn 2 (8 AM, June 6): 185th Brigade (Smith); Staffordshire Yeomanry\nTurn 4 (10 AM, June 6): Tom Rennie\nTurn 5 (11 AM, June 6): 9th Brigade (Cunningham)\nTurn 6 (Noon, June 6): 3rd Division Artillery\nTurn 7 (1 PM, June 6): East Riding Yeomanry\nTurn 11 (5 PM, June 6): 20th Anti-Tank Regiment\nTurn 20 (7 AM, June 7): 46 Royal Marine Commando\nTurn 24 (3 PM, June 7): 152nd Brigade (51st Highland)\nTurn 32 (9 AM, June 8): Miles Dempsey\n\nWhile the Allies hold Sword Beach, these troops come ashore here at the start of the listed turn instead of appearing in their landing craft beside Force S. While the Germans hold it, nothing happens here."
+    },
+    {
+        "name": "Allied Arrivals: Pegasus Bridge",
+        "cost": 1,
+        "uniqueTo": "Allies",
+        "uniques": [
+            "Normandy Scenario",
+            "Unbuildable",
+            "Unsellable",
+            "Destroyed when the city is captured",
+            "[2] free [British Paratroopers] units appear <upon turn start> <after turn number [15]> <before turn number [16]> <for [Allies] Civilizations>"
+        ],
+        "replacementTextForUniques": "Glider landings for Pegasus Bridge.\nThe bridges over the Caen Canal and the Orne at Bénouville and Ranville, taken intact by Major John Howard's glider-borne company at 12:16 AM. The 6th Airlanding Brigade's gliders land beside them.\n\nTurn 15 (9 PM, June 6): 1st Royal Ulster Rifles; 2nd Ox and Bucks Light Infantry\n\nReinforcements appear in or next to this city at the start of the listed turn. If the enemy captures the city, the reinforcements still due here are lost."
+    },
+    {
+        "name": "Allied Arrivals: Sainte-Mere-Eglise",
+        "cost": 1,
+        "uniqueTo": "Allies",
+        "uniques": [
+            "Normandy Scenario",
+            "Unbuildable",
+            "Unsellable",
+            "Destroyed when the city is captured",
+            "Free [US Artillery] appears <upon turn start> <after turn number [15]> <before turn number [16]> <for [Allies] Civilizations>",
+            "Free [US Paratroopers] appears <upon turn start> <after turn number [19]> <before turn number [20]> <for [Allies] Civilizations>"
+        ],
+        "replacementTextForUniques": "Glider landings for Sainte-Mère-Église.\nThe first town in France liberated by the Americans: Lt. Col. Edward Krause's 3rd Battalion, 505th Parachute Infantry, raised the flag over the town hall at 4:30 AM. Gliders of the 82nd Airborne land here.\n\nTurn 15 (9 PM, June 6): 319th and 320th Glider Field Artillery\nTurn 19 (5 AM, June 7): 325th Glider Infantry\n\nReinforcements appear in or next to this city at the start of the listed turn. If the enemy captures the city, the reinforcements still due here are lost."
+    },
+    {
+        "name": "German Arrivals: Falaise Road",
+        "cost": 1,
+        "uniqueTo": "Germany",
+        "uniques": [
+            "Normandy Scenario",
+            "Unbuildable",
+            "Unsellable",
+            "Destroyed when the city is captured",
+            "Free [Panzer IV] appears <upon turn start> <after turn number [2]> <before turn number [3]> <for [Germany] Civilizations>",
+            "Free [German General] appears <upon turn start> <after turn number [2]> <before turn number [3]> <for [Germany] Civilizations>",
+            "Free [Panzer IV] appears <upon turn start> <after turn number [3]> <before turn number [4]> <for [Germany] Civilizations>",
+            "Free [Panzergrenadiers] appears <upon turn start> <after turn number [4]> <before turn number [5]> <for [Germany] Civilizations>",
+            "Free [German General] appears <upon turn start> <after turn number [5]> <before turn number [6]> <for [Germany] Civilizations>",
+            "Free [German Artillery] appears <upon turn start> <after turn number [6]> <before turn number [7]> <for [Germany] Civilizations>",
+            "Free [88 Flak] appears <upon turn start> <after turn number [7]> <before turn number [8]> <for [Germany] Civilizations>",
+            "Free [Panzergrenadiers] appears <upon turn start> <after turn number [19]> <before turn number [20]> <for [Germany] Civilizations>",
+            "Free [German General] appears <upon turn start> <after turn number [19]> <before turn number [20]> <for [Germany] Civilizations>",
+            "Free [Panzer IV] appears <upon turn start> <after turn number [20]> <before turn number [21]> <for [Germany] Civilizations>",
+            "Free [German Artillery] appears <upon turn start> <after turn number [21]> <before turn number [22]> <for [Germany] Civilizations>",
+            "Free [88 Flak] appears <upon turn start> <after turn number [21]> <before turn number [22]> <for [Germany] Civilizations>",
+            "Free [German General] appears <upon turn start> <after turn number [22]> <before turn number [23]> <for [Germany] Civilizations>",
+            "Free [German General] appears <upon turn start> <after turn number [23]> <before turn number [24]> <for [Germany] Civilizations>",
+            "Free [Panzergrenadiers] appears <upon turn start> <after turn number [24]> <before turn number [25]> <for [Germany] Civilizations>",
+            "Free [Pioniere] appears <upon turn start> <after turn number [26]> <before turn number [27]> <for [Germany] Civilizations>",
+            "Free [Panzergrenadiers] appears <upon turn start> <after turn number [30]> <before turn number [31]> <for [Germany] Civilizations>",
+            "Free [Panther] appears <upon turn start> <after turn number [31]> <before turn number [32]> <for [Germany] Civilizations>",
+            "Free [Nebelwerfer] appears <upon turn start> <after turn number [32]> <before turn number [33]> <for [Germany] Civilizations>"
+        ],
+        "replacementTextForUniques": "The order of march for Falaise Road.\nThe road north from Falaise to Caen. The 21st Panzer Division's tanks and the 12th SS Panzer Division came up it to the battle for Caen.\n\nTurn 2 (8 AM, June 6): 22nd Panzer Regiment (I Battalion); Hermann von Oppeln-Bronikowski\nTurn 3 (9 AM, June 6): 22nd Panzer Regiment (II Battalion)\nTurn 4 (10 AM, June 6): 21st Panzer Reconnaissance Battalion\nTurn 5 (11 AM, June 6): Edgar Feuchtinger\nTurn 6 (Noon, June 6): 155th Panzer Artillery Regiment\nTurn 7 (1 PM, June 6): Panzerjaeger-Abteilung 200 (88s)\nTurn 19 (5 AM, June 7): 25th SS Panzergrenadier Regiment (Meyer); Kurt Meyer\nTurn 20 (7 AM, June 7): 12th SS Panzer Regiment (II Battalion)\nTurn 21 (9 AM, June 7): 12th SS Artillery Regiment; 12th SS Flak Battalion (88s)\nTurn 22 (11 AM, June 7): Fritz Witt\nTurn 23 (1 PM, June 7): Sepp Dietrich\nTurn 24 (3 PM, June 7): 12th SS Reconnaissance Battalion (Bremer)\nTurn 26 (7 PM, June 7): 12th SS Pioneer Battalion\nTurn 30 (5 AM, June 8): 26th SS Panzergrenadier Regiment (Mohnke)\nTurn 31 (7 AM, June 8): 12th SS Panzer Regiment (I Battalion)\nTurn 32 (9 AM, June 8): 12th SS Werfer Battalion\n\nReinforcements appear in or next to this city at the start of the listed turn. If the enemy captures the city, the reinforcements still due here are lost."
+    },
+    {
+        "name": "German Arrivals: Valognes Road",
+        "cost": 1,
+        "uniqueTo": "Germany",
+        "uniques": [
+            "Normandy Scenario",
+            "Unbuildable",
+            "Unsellable",
+            "Destroyed when the city is captured",
+            "Free [German General] appears <upon turn start> <after turn number [3]> <before turn number [4]> <for [Germany] Civilizations>",
+            "Free [Grenadiers] appears <upon turn start> <after turn number [4]> <before turn number [5]> <for [Germany] Civilizations>",
+            "Free [StuG III] appears <upon turn start> <after turn number [9]> <before turn number [10]> <for [Germany] Civilizations>",
+            "Free [Grenadiers] appears <upon turn start> <after turn number [19]> <before turn number [20]> <for [Germany] Civilizations>",
+            "Free [German Artillery] appears <upon turn start> <after turn number [24]> <before turn number [25]> <for [Germany] Civilizations>",
+            "Free [Grenadiers] appears <upon turn start> <after turn number [30]> <before turn number [31]> <for [Germany] Civilizations>"
+        ],
+        "replacementTextForUniques": "The order of march for Valognes Road.\nThe highway from Cherbourg and Valognes, down which the 709th and 243rd Divisions sent their reserves against the American airborne.\n\nTurn 3 (9 AM, June 6): Karl-Wilhelm von Schlieben\nTurn 4 (10 AM, June 6): Sturm-Bataillon AOK 7 (Messerschmidt)\nTurn 9 (3 PM, June 6): Sturmgeschuetz-Abteilung 7\nTurn 19 (5 AM, June 7): 739th Grenadier Regiment (709th Division)\nTurn 24 (3 PM, June 7): 1709th Artillery Regiment\nTurn 30 (5 AM, June 8): 922nd Grenadier Regiment (243rd Division)\n\nReinforcements appear in or next to this city at the start of the listed turn. If the enemy captures the city, the reinforcements still due here are lost."
+    },
+    {
+        "name": "German Arrivals: Saint-Lo",
+        "cost": 1,
+        "uniqueTo": "Germany",
+        "uniques": [
+            "Normandy Scenario",
+            "Unbuildable",
+            "Unsellable",
+            "Destroyed when the city is captured",
+            "Free [Grenadiers] appears <upon turn start> <after turn number [6]> <before turn number [7]> <for [Germany] Civilizations>",
+            "Free [Nebelwerfer] appears <upon turn start> <after turn number [7]> <before turn number [8]> <for [Germany] Civilizations>",
+            "Free [StuG III] appears <upon turn start> <after turn number [10]> <before turn number [11]> <for [Germany] Civilizations>",
+            "Free [Pioniere] appears <upon turn start> <after turn number [12]> <before turn number [13]> <for [Germany] Civilizations>",
+            "Free [Grenadiers] appears <upon turn start> <after turn number [20]> <before turn number [21]> <for [Germany] Civilizations>",
+            "Free [88 Flak] appears <upon turn start> <after turn number [22]> <before turn number [23]> <for [Germany] Civilizations>",
+            "Free [Grenadiers] appears <upon turn start> <after turn number [25]> <before turn number [26]> <for [Germany] Civilizations>",
+            "Free [Grenadiers] appears <upon turn start> <after turn number [33]> <before turn number [34]> <for [Germany] Civilizations>"
+        ],
+        "replacementTextForUniques": "The order of march for Saint-Lô.\nHeadquarters of General Erich Marcks's LXXXIV Corps, which defended the whole invasion coast, and the hub of the roads from Brittany and the south. The German headquarters.\n\nTurn 6 (Noon, June 6): Schnelle Brigade 30\nTurn 7 (1 PM, June 6): Werfer-Regiment 84\nTurn 10 (4 PM, June 6): Sturmgeschuetz-Brigade 902\nTurn 12 (6 PM, June 6): Pioniere\nTurn 20 (7 AM, June 7): Kampfgruppe Heintz (275th Division)\nTurn 22 (11 AM, June 7): Flak-Sturm-Regiment 1\nTurn 25 (5 PM, June 7): 77th Infantry Division (advance guard)\nTurn 33 (11 AM, June 8): 3rd Fallschirmjaeger Division (advance guard)\n\nReinforcements appear in or next to this city at the start of the listed turn. If the enemy captures the city, the reinforcements still due here are lost."
+    },
+    {
+        "name": "German Arrivals: Lisieux Road",
+        "cost": 1,
+        "uniqueTo": "Germany",
+        "uniques": [
+            "Normandy Scenario",
+            "Unbuildable",
+            "Unsellable",
+            "Destroyed when the city is captured",
+            "Free [Grenadiers] appears <upon turn start> <after turn number [8]> <before turn number [9]> <for [Germany] Civilizations>",
+            "Free [German Artillery] appears <upon turn start> <after turn number [14]> <before turn number [15]> <for [Germany] Civilizations>",
+            "Free [Grenadiers] appears <upon turn start> <after turn number [21]> <before turn number [22]> <for [Germany] Civilizations>",
+            "Free [Grenadiers] appears <upon turn start> <after turn number [31]> <before turn number [32]> <for [Germany] Civilizations>"
+        ],
+        "replacementTextForUniques": "The order of march for Lisieux Road.\nThe road from Lisieux, east of the Dives. The 711th and 346th Infantry Divisions came this way to attack the British airborne bridgehead east of the Orne.\n\nTurn 8 (2 PM, June 6): 744th Grenadier Regiment (711th Division)\nTurn 14 (8 PM, June 6): 1711th Artillery Regiment\nTurn 21 (9 AM, June 7): 857th Grenadier Regiment (346th Division)\nTurn 31 (7 AM, June 8): 858th Grenadier Regiment (346th Division)\n\nReinforcements appear in or next to this city at the start of the listed turn. If the enemy captures the city, the reinforcements still due here are lost."
+    },
+    {
+        "name": "German Arrivals: Villers-Bocage",
+        "cost": 1,
+        "uniqueTo": "Germany",
+        "uniques": [
+            "Normandy Scenario",
+            "Unbuildable",
+            "Unsellable",
+            "Destroyed when the city is captured",
+            "Free [German General] appears <upon turn start> <after turn number [30]> <before turn number [31]> <for [Germany] Civilizations>",
+            "Free [Panzergrenadiers] appears <upon turn start> <after turn number [31]> <before turn number [32]> <for [Germany] Civilizations>",
+            "Free [Panzer IV] appears <upon turn start> <after turn number [32]> <before turn number [33]> <for [Germany] Civilizations>",
+            "Free [Panther] appears <upon turn start> <after turn number [33]> <before turn number [34]> <for [Germany] Civilizations>",
+            "Free [Panzergrenadiers] appears <upon turn start> <after turn number [34]> <before turn number [35]> <for [Germany] Civilizations>",
+            "Free [German Artillery] appears <upon turn start> <after turn number [35]> <before turn number [36]> <for [Germany] Civilizations>",
+            "Free [StuG III] appears <upon turn start> <after turn number [36]> <before turn number [37]> <for [Germany] Civilizations>"
+        ],
+        "replacementTextForUniques": "The order of march for Villers-Bocage.\nThe market town on the road from Le Mans and Alençon. The Panzer Lehr Division, bombed and strafed every mile of its march from Chartres, came up this way on June 8.\n\nTurn 30 (5 AM, June 8): Fritz Bayerlein\nTurn 31 (7 AM, June 8): 901st Panzergrenadier-Lehr Regiment\nTurn 32 (9 AM, June 8): Panzer-Lehr Regiment 130 (II Battalion)\nTurn 33 (11 AM, June 8): Panzer Regiment 6 (I Battalion)\nTurn 34 (1 PM, June 8): 902nd Panzergrenadier-Lehr Regiment\nTurn 35 (3 PM, June 8): Panzer-Lehr Artillery Regiment 130\nTurn 36 (5 PM, June 8): Panzerjaeger-Lehr-Abteilung 130\n\nReinforcements appear in or next to this city at the start of the listed turn. If the enemy captures the city, the reinforcements still due here are lost."
+    }
+]

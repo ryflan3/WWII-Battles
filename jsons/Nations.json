@@ -1,0 +1,81 @@
+[
+    {
+        "name": "Spectator",
+        "outerColor": [255, 255, 255]
+    },
+    {
+        "name": "Allies",
+        "leaderName": "Dwight D. Eisenhower",
+        "adjective": ["Allied", "American", "British", "Canadian"],
+        "preferredVictoryType": "Hold the Beachhead",
+        "startBias": ["Coast"],
+
+        "startIntroPart1": "General Eisenhower, the great crusade has begun. In the night three airborne divisions dropped behind the beaches of Normandy, and at dawn five thousand ships lie off the coast. At 6:30 AM the first landing craft touch down on Utah and Omaha; at 7:25 the British and Canadians follow on Gold, Juno and Sword.",
+        "startIntroPart2": "This is FREE PLAY, not the historical battle: you start with a Supply Column to set up your headquarters and a small force, and the war begins when you declare it (Diplomacy, top left). To fight D-Day itself - the airborne, the landings, the thirteen key positions and the reinforcements - start a New Game and choose Map Type: Scenario, then D-Day.",
+
+        "declaringWar": "You are about to embark upon the Great Crusade, toward which we have striven these many months. The eyes of the world are upon you.",
+        "attacked": "The Allied armies will not be thrown back into the sea.",
+        "defeated": "Our landings have failed to gain a satisfactory foothold and I have withdrawn the troops. If any blame or fault attaches to the attempt it is mine alone.",
+        "introduction": "General Dwight D. Eisenhower, Supreme Commander, Allied Expeditionary Force.",
+        "neutralHello": "OK, let's go.",
+        "hateHello": "We will accept nothing less than full victory.",
+        "tradeRequest": "Under a flag of truce, we have a proposal.",
+
+        "outerColor": [64, 80, 44],
+        "innerColor": [245, 245, 235],
+
+        "uniqueName": "Operation Overlord",
+        "uniqueText": "The greatest seaborne invasion in history. Allied land units can embark: landing craft move 5 tiles, and landing takes the rest of the turn. Allied fighter-bombers rule the daylight sky and support every attack in the open: +10% Strength when attacking in open terrain, except at night. Ample medical and supply services: +5 HP when healing for land units.",
+        "uniques": [
+            "Enables embarkation for land units",
+            "[+3] Movement <for [Embarked] units>",
+            "[+10]% Strength <when attacking> <when fighting in [Open terrain] tiles> <before turn number [17]>",
+            "[+10]% Strength <when attacking> <when fighting in [Open terrain] tiles> <after turn number [19]> <before turn number [28]>",
+            "[+10]% Strength <when attacking> <when fighting in [Open terrain] tiles> <after turn number [30]>",
+            "[+5] HP when healing <for [Land] units>"
+        ],
+        "cities": ["Force U", "Force O", "Force G", "Force J", "Force S", "Sainte-Mère-Église", "Pegasus Bridge", "Ranville", "Bénouville",
+            "Sainte-Marie-du-Mont", "Pouppeville", "Vierville", "Saint-Laurent", "Colleville", "Arromanches", "Asnelles", "Ver-sur-Mer",
+            "Creully", "Bernières", "Saint-Aubin", "Hermanville", "Colleville-Montgomery", "Ouistreham", "Isigny"],
+        "civilopediaText": [
+            {"text": "The Allied Expeditionary Force under General Dwight D. Eisenhower: the US First Army (Bradley) and the British Second Army (Dempsey) under General Montgomery's 21st Army Group, with Canadian, French, Polish, Norwegian, Dutch, Belgian, Czech, Greek, Australian and New Zealand forces in the fleets, the air forces and the ranks."},
+            {"text": "On June 6, 1944 - D-Day - some 156,000 men landed in Normandy by sea and air, carried and supported by nearly 7,000 ships and 11,000 aircraft. About 4,400 of them were killed that day."}
+        ]
+    },
+    {
+        "name": "Germany",
+        "leaderName": "Erwin Rommel",
+        "adjective": ["German"],
+        "preferredVictoryType": "Contain the Invasion",
+        "startBias": ["Hill"],
+
+        "startIntroPart1": "Field Marshal Rommel, the invasion has come - in Normandy, not at Calais, and on a morning of wind and rain when nobody expected it. You are at home in Germany for your wife's birthday. The paratroopers came down in the night; now the whole horizon is filled with ships.",
+        "startIntroPart2": "This is FREE PLAY, not the historical battle: you start with a Supply Column to set up your headquarters and a small force, and the war begins when you declare it (Diplomacy, top left). To fight D-Day itself - the airborne, the landings, the thirteen key positions and the reinforcements - start a New Game and choose Map Type: Scenario, then D-Day.",
+
+        "declaringWar": "The first twenty-four hours of the invasion will be decisive. For the Allies, as well as Germany, it will be the longest day.",
+        "attacked": "We must stop the enemy in the water and destroy his equipment while it is still afloat.",
+        "defeated": "The battle in Normandy is lost.",
+        "introduction": "Field Marshal Erwin Rommel, commanding Army Group B.",
+        "neutralHello": "Yes?",
+        "hateHello": "Your beachhead will not last the week.",
+        "tradeRequest": "Under a flag of truce, we have a proposal.",
+
+        "outerColor": [58, 62, 64],
+        "innerColor": [236, 236, 236],
+
+        "uniqueName": "Atlantic Wall",
+        "uniqueText": "Five months of Rommel's work: mines, beach obstacles and concrete strongpoints along the whole coast, and an army that had learned on the Eastern Front how to hold ground. Veteran officers and NCOs, quick counterattacks and superb weapons made German units fight above their weight: +10% Strength. The hedgerows of the bocage were a defender's paradise: +25% Strength when defending in rough terrain. Repair shops and short supply lines: +5 HP when healing in friendly territory.",
+        "uniques": [
+            "[+25]% Strength <when defending> <when fighting in [Rough terrain] tiles>",
+            "[+10]% Strength",
+            "[+5] HP when healing <for [Land] units> <in [Friendly Land] tiles>"
+        ],
+        "cities": ["Saint-Lô", "Valognes Road", "Villers-Bocage", "Falaise Road", "Lisieux Road", "Caen", "Bayeux", "Carentan", "Carpiquet",
+            "Port-en-Bessin", "Isigny", "Trévières", "Montebourg", "Tilly-sur-Seulles", "Douvres", "Troarn", "Caumont", "Périers",
+            "Valognes", "Cherbourg", "Falaise", "Lisieux", "Évrecy", "Bretteville"],
+        "civilopediaText": [
+            {"text": "In Normandy the German Seventh Army (Dollmann), part of Field Marshal Rommel's Army Group B, held the invasion coast with LXXXIV Corps under General Erich Marcks: four infantry divisions on the coast, the 91st Air Landing Division and the 6th Fallschirmjäger Regiment in the Cotentin, and the 21st Panzer Division near Caen."},
+            {"text": "The other panzer divisions were held back under Hitler's own control, and on June 6 Hitler slept late. The 12th SS Panzer and Panzer Lehr Divisions were released only in the afternoon and reached the front on June 7 and 8, harried all the way by Allied fighter-bombers."}
+        ]
+    }
+]

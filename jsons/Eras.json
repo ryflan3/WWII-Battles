@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Second World War",
+        "researchAgreementCost": 300,
+        "iconRGB": [96, 104, 70],
+        "startingSettlerCount": 1,
+        "startingSettlerUnit": "Supply Column",
+        "startingWorkerCount": 0,
+        "startingMilitaryUnitCount": 3,
+        "startingMilitaryUnit": "Rifle Infantry",
+        "startingGold": 150,
+        "settlerPopulation": 3,
+        "settlerBuildings": ["Supply Depot"],
+        "baseUnitBuyCost": 200,
+        "embarkDefense": 20,
+        "citySound": "cityModern"
+    }
+]

@@ -1,0 +1,1138 @@
+[
+    {
+        "name": "US General arriving on turn 2",
+        "unitNames": [
+            "Raymond O. Barton"
+        ],
+        "uniques": [
+            "US General",
+            "Only available <after turn number [2]> <before turn number [3]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "US Infantry arriving on turn 3",
+        "unitNames": [
+            "12th Infantry (Reeder)"
+        ],
+        "uniques": [
+            "US Infantry",
+            "Only available <after turn number [3]> <before turn number [4]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Sherman arriving on turn 4",
+        "unitNames": [
+            "746th Tank Battalion"
+        ],
+        "uniques": [
+            "Sherman",
+            "Only available <after turn number [4]> <before turn number [5]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "US Artillery arriving on turn 5",
+        "unitNames": [
+            "4th Division Artillery"
+        ],
+        "uniques": [
+            "US Artillery",
+            "Only available <after turn number [5]> <before turn number [6]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "M10 Tank Destroyer arriving on turn 8",
+        "unitNames": [
+            "899th Tank Destroyer Battalion"
+        ],
+        "uniques": [
+            "M10 Tank Destroyer",
+            "Only available <after turn number [8]> <before turn number [9]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "US Infantry arriving on turn 10",
+        "unitNames": [
+            "359th Infantry (90th Division)"
+        ],
+        "uniques": [
+            "US Infantry",
+            "Only available <after turn number [10]> <before turn number [11]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "US Infantry arriving on turn 2",
+        "unitNames": [
+            "18th Infantry (1st Division)"
+        ],
+        "uniques": [
+            "US Infantry",
+            "Only available <after turn number [2]> <before turn number [3]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Destroyer arriving on turn 3",
+        "unitNames": [
+            "USS McCook",
+            "USS Carmick"
+        ],
+        "uniques": [
+            "Destroyer",
+            "Only available <after turn number [3]> <before turn number [4]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "US Infantry arriving on turn 4",
+        "unitNames": [
+            "115th Infantry (29th Division)"
+        ],
+        "uniques": [
+            "US Infantry",
+            "Only available <after turn number [4]> <before turn number [5]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "US Artillery arriving on turn 6",
+        "unitNames": [
+            "7th Field Artillery (1st Division)"
+        ],
+        "uniques": [
+            "US Artillery",
+            "Only available <after turn number [6]> <before turn number [7]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Combat Engineers arriving on turn 7",
+        "unitNames": [
+            "5th Engineer Special Brigade"
+        ],
+        "uniques": [
+            "Combat Engineers",
+            "Only available <after turn number [7]> <before turn number [8]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "US Infantry arriving on turn 8",
+        "unitNames": [
+            "26th Infantry (1st Division)"
+        ],
+        "uniques": [
+            "US Infantry",
+            "Only available <after turn number [8]> <before turn number [9]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "US General arriving on turn 9",
+        "unitNames": [
+            "Charles H. Gerhardt"
+        ],
+        "uniques": [
+            "US General",
+            "Only available <after turn number [9]> <before turn number [10]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "US Artillery arriving on turn 11",
+        "unitNames": [
+            "29th Division Artillery"
+        ],
+        "uniques": [
+            "US Artillery",
+            "Only available <after turn number [11]> <before turn number [12]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "US General arriving on turn 13",
+        "unitNames": [
+            "Leonard T. Gerow"
+        ],
+        "uniques": [
+            "US General",
+            "Only available <after turn number [13]> <before turn number [14]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Sherman arriving on turn 14",
+        "unitNames": [
+            "745th Tank Battalion"
+        ],
+        "uniques": [
+            "Sherman",
+            "Only available <after turn number [14]> <before turn number [15]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Sherman arriving on turn 2",
+        "unitNames": [
+            "Sherwood Rangers Yeomanry"
+        ],
+        "uniques": [
+            "Sherman",
+            "Only available <after turn number [2]> <before turn number [3]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "British Infantry arriving on turn 3",
+        "unitNames": [
+            "151st Brigade (Senior)"
+        ],
+        "uniques": [
+            "British Infantry",
+            "Only available <after turn number [3]> <before turn number [4]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "British General arriving on turn 3",
+        "unitNames": [
+            "Douglas Graham"
+        ],
+        "uniques": [
+            "British General",
+            "Only available <after turn number [3]> <before turn number [4]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "British Infantry arriving on turn 4",
+        "unitNames": [
+            "56th Brigade (Pepper)"
+        ],
+        "uniques": [
+            "British Infantry",
+            "Only available <after turn number [4]> <before turn number [5]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Royal Artillery arriving on turn 5",
+        "unitNames": [
+            "50th Division Artillery"
+        ],
+        "uniques": [
+            "Royal Artillery",
+            "Only available <after turn number [5]> <before turn number [6]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Sherman arriving on turn 6",
+        "unitNames": [
+            "24th Lancers"
+        ],
+        "uniques": [
+            "Sherman",
+            "Only available <after turn number [6]> <before turn number [7]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Allied Anti-Tank Guns arriving on turn 9",
+        "unitNames": [
+            "102nd Anti-Tank Regiment"
+        ],
+        "uniques": [
+            "Allied Anti-Tank Guns",
+            "Only available <after turn number [9]> <before turn number [10]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "British General arriving on turn 2",
+        "unitNames": [
+            "Rod Keller"
+        ],
+        "uniques": [
+            "British General",
+            "Only available <after turn number [2]> <before turn number [3]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Canadian Infantry arriving on turn 3",
+        "unitNames": [
+            "9th Canadian Brigade (Cunningham)"
+        ],
+        "uniques": [
+            "Canadian Infantry",
+            "Only available <after turn number [3]> <before turn number [4]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Royal Artillery arriving on turn 4",
+        "unitNames": [
+            "3rd Canadian Division Artillery"
+        ],
+        "uniques": [
+            "Royal Artillery",
+            "Only available <after turn number [4]> <before turn number [5]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Sherman arriving on turn 5",
+        "unitNames": [
+            "Sherbrooke Fusiliers"
+        ],
+        "uniques": [
+            "Sherman",
+            "Only available <after turn number [5]> <before turn number [6]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Allied Anti-Tank Guns arriving on turn 8",
+        "unitNames": [
+            "3rd Canadian Anti-Tank Regiment"
+        ],
+        "uniques": [
+            "Allied Anti-Tank Guns",
+            "Only available <after turn number [8]> <before turn number [9]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Combat Engineers arriving on turn 10",
+        "unitNames": [
+            "Royal Canadian Engineers"
+        ],
+        "uniques": [
+            "Combat Engineers",
+            "Only available <after turn number [10]> <before turn number [11]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "British Infantry arriving on turn 2",
+        "unitNames": [
+            "185th Brigade (Smith)"
+        ],
+        "uniques": [
+            "British Infantry",
+            "Only available <after turn number [2]> <before turn number [3]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Sherman Firefly arriving on turn 2",
+        "unitNames": [
+            "Staffordshire Yeomanry"
+        ],
+        "uniques": [
+            "Sherman Firefly",
+            "Only available <after turn number [2]> <before turn number [3]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "British General arriving on turn 4",
+        "unitNames": [
+            "Tom Rennie"
+        ],
+        "uniques": [
+            "British General",
+            "Only available <after turn number [4]> <before turn number [5]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "British Infantry arriving on turn 5",
+        "unitNames": [
+            "9th Brigade (Cunningham)"
+        ],
+        "uniques": [
+            "British Infantry",
+            "Only available <after turn number [5]> <before turn number [6]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Royal Artillery arriving on turn 6",
+        "unitNames": [
+            "3rd Division Artillery"
+        ],
+        "uniques": [
+            "Royal Artillery",
+            "Only available <after turn number [6]> <before turn number [7]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Sherman arriving on turn 7",
+        "unitNames": [
+            "East Riding Yeomanry"
+        ],
+        "uniques": [
+            "Sherman",
+            "Only available <after turn number [7]> <before turn number [8]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Allied Anti-Tank Guns arriving on turn 11",
+        "unitNames": [
+            "20th Anti-Tank Regiment"
+        ],
+        "uniques": [
+            "Allied Anti-Tank Guns",
+            "Only available <after turn number [11]> <before turn number [12]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "British Paratroopers arriving on turn 15",
+        "unitNames": [
+            "1st Royal Ulster Rifles",
+            "2nd Ox and Bucks Light Infantry"
+        ],
+        "uniques": [
+            "British Paratroopers",
+            "Only available <after turn number [15]> <before turn number [16]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "US Artillery arriving on turn 15",
+        "unitNames": [
+            "319th and 320th Glider Field Artillery"
+        ],
+        "uniques": [
+            "US Artillery",
+            "Only available <after turn number [15]> <before turn number [16]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Panzer IV arriving on turn 2",
+        "unitNames": [
+            "22nd Panzer Regiment (I Battalion)"
+        ],
+        "uniques": [
+            "Panzer IV",
+            "Only available <after turn number [2]> <before turn number [3]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "German General arriving on turn 2",
+        "unitNames": [
+            "Hermann von Oppeln-Bronikowski"
+        ],
+        "uniques": [
+            "German General",
+            "Only available <after turn number [2]> <before turn number [3]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Panzer IV arriving on turn 3",
+        "unitNames": [
+            "22nd Panzer Regiment (II Battalion)"
+        ],
+        "uniques": [
+            "Panzer IV",
+            "Only available <after turn number [3]> <before turn number [4]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "German General arriving on turn 3",
+        "unitNames": [
+            "Karl-Wilhelm von Schlieben"
+        ],
+        "uniques": [
+            "German General",
+            "Only available <after turn number [3]> <before turn number [4]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Grenadiers arriving on turn 4",
+        "unitNames": [
+            "Sturm-Bataillon AOK 7 (Messerschmidt)"
+        ],
+        "uniques": [
+            "Grenadiers",
+            "Only available <after turn number [4]> <before turn number [5]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "German General arriving on turn 5",
+        "unitNames": [
+            "Edgar Feuchtinger"
+        ],
+        "uniques": [
+            "German General",
+            "Only available <after turn number [5]> <before turn number [6]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "German Artillery arriving on turn 6",
+        "unitNames": [
+            "155th Panzer Artillery Regiment"
+        ],
+        "uniques": [
+            "German Artillery",
+            "Only available <after turn number [6]> <before turn number [7]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "88 Flak arriving on turn 7",
+        "unitNames": [
+            "Panzerjaeger-Abteilung 200 (88s)"
+        ],
+        "uniques": [
+            "88 Flak",
+            "Only available <after turn number [7]> <before turn number [8]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Grenadiers arriving on turn 6",
+        "unitNames": [
+            "Schnelle Brigade 30"
+        ],
+        "uniques": [
+            "Grenadiers",
+            "Only available <after turn number [6]> <before turn number [7]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Nebelwerfer arriving on turn 7",
+        "unitNames": [
+            "Werfer-Regiment 84"
+        ],
+        "uniques": [
+            "Nebelwerfer",
+            "Only available <after turn number [7]> <before turn number [8]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Panzergrenadiers arriving on turn 4",
+        "unitNames": [
+            "21st Panzer Reconnaissance Battalion"
+        ],
+        "uniques": [
+            "Panzergrenadiers",
+            "Only available <after turn number [4]> <before turn number [5]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Grenadiers arriving on turn 8",
+        "unitNames": [
+            "744th Grenadier Regiment (711th Division)"
+        ],
+        "uniques": [
+            "Grenadiers",
+            "Only available <after turn number [8]> <before turn number [9]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "StuG III arriving on turn 10",
+        "unitNames": [
+            "Sturmgeschuetz-Brigade 902"
+        ],
+        "uniques": [
+            "StuG III",
+            "Only available <after turn number [10]> <before turn number [11]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "StuG III arriving on turn 9",
+        "unitNames": [
+            "Sturmgeschuetz-Abteilung 7"
+        ],
+        "uniques": [
+            "StuG III",
+            "Only available <after turn number [9]> <before turn number [10]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "German Artillery arriving on turn 14",
+        "unitNames": [
+            "1711th Artillery Regiment"
+        ],
+        "uniques": [
+            "German Artillery",
+            "Only available <after turn number [14]> <before turn number [15]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "US General arriving on turn 19",
+        "unitNames": [
+            "J. Lawton Collins"
+        ],
+        "uniques": [
+            "US General",
+            "Only available <after turn number [19]> <before turn number [20]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "US Infantry arriving on turn 19",
+        "unitNames": [
+            "175th Infantry (29th Division)"
+        ],
+        "uniques": [
+            "US Infantry",
+            "Only available <after turn number [19]> <before turn number [20]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "British General arriving on turn 19",
+        "unitNames": [
+            "Gerard Bucknall"
+        ],
+        "uniques": [
+            "British General",
+            "Only available <after turn number [19]> <before turn number [20]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "US Paratroopers arriving on turn 19",
+        "unitNames": [
+            "325th Glider Infantry"
+        ],
+        "uniques": [
+            "US Paratroopers",
+            "Only available <after turn number [19]> <before turn number [20]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Cromwell arriving on turn 20",
+        "unitNames": [
+            "22nd Armoured Brigade (7th Armoured)"
+        ],
+        "uniques": [
+            "Cromwell",
+            "Only available <after turn number [20]> <before turn number [21]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Sherman arriving on turn 20",
+        "unitNames": [
+            "747th Tank Battalion"
+        ],
+        "uniques": [
+            "Sherman",
+            "Only available <after turn number [20]> <before turn number [21]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "US Paratroopers arriving on turn 20",
+        "unitNames": [
+            "327th Glider Infantry"
+        ],
+        "uniques": [
+            "US Paratroopers",
+            "Only available <after turn number [20]> <before turn number [21]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Commandos arriving on turn 20",
+        "unitNames": [
+            "46 Royal Marine Commando"
+        ],
+        "uniques": [
+            "Commandos",
+            "Only available <after turn number [20]> <before turn number [21]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "British General arriving on turn 20",
+        "unitNames": [
+            "John Crocker"
+        ],
+        "uniques": [
+            "British General",
+            "Only available <after turn number [20]> <before turn number [21]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "US Infantry arriving on turn 21",
+        "unitNames": [
+            "357th Infantry (90th Division)"
+        ],
+        "uniques": [
+            "US Infantry",
+            "Only available <after turn number [21]> <before turn number [22]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "British General arriving on turn 21",
+        "unitNames": [
+            "G. W. E. J. Erskine"
+        ],
+        "uniques": [
+            "British General",
+            "Only available <after turn number [21]> <before turn number [22]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "British Infantry arriving on turn 21",
+        "unitNames": [
+            "153rd Brigade (51st Highland)"
+        ],
+        "uniques": [
+            "British Infantry",
+            "Only available <after turn number [21]> <before turn number [22]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "US Infantry arriving on turn 22",
+        "unitNames": [
+            "9th Infantry (2nd Division)"
+        ],
+        "uniques": [
+            "US Infantry",
+            "Only available <after turn number [22]> <before turn number [23]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Cromwell arriving on turn 22",
+        "unitNames": [
+            "8th King's Royal Irish Hussars"
+        ],
+        "uniques": [
+            "Cromwell",
+            "Only available <after turn number [22]> <before turn number [23]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "US Infantry arriving on turn 23",
+        "unitNames": [
+            "358th Infantry (90th Division)"
+        ],
+        "uniques": [
+            "US Infantry",
+            "Only available <after turn number [23]> <before turn number [24]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "British Infantry arriving on turn 23",
+        "unitNames": [
+            "131st Brigade (7th Armoured)"
+        ],
+        "uniques": [
+            "British Infantry",
+            "Only available <after turn number [23]> <before turn number [24]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "US Infantry arriving on turn 24",
+        "unitNames": [
+            "38th Infantry (2nd Division)"
+        ],
+        "uniques": [
+            "US Infantry",
+            "Only available <after turn number [24]> <before turn number [25]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "British Infantry arriving on turn 24",
+        "unitNames": [
+            "152nd Brigade (51st Highland)"
+        ],
+        "uniques": [
+            "British Infantry",
+            "Only available <after turn number [24]> <before turn number [25]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "US Artillery arriving on turn 25",
+        "unitNames": [
+            "90th Division Artillery"
+        ],
+        "uniques": [
+            "US Artillery",
+            "Only available <after turn number [25]> <before turn number [26]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "M10 Tank Destroyer arriving on turn 25",
+        "unitNames": [
+            "635th Tank Destroyer Battalion"
+        ],
+        "uniques": [
+            "M10 Tank Destroyer",
+            "Only available <after turn number [25]> <before turn number [26]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Panzergrenadiers arriving on turn 19",
+        "unitNames": [
+            "25th SS Panzergrenadier Regiment (Meyer)"
+        ],
+        "uniques": [
+            "Panzergrenadiers",
+            "Only available <after turn number [19]> <before turn number [20]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "German General arriving on turn 19",
+        "unitNames": [
+            "Kurt Meyer"
+        ],
+        "uniques": [
+            "German General",
+            "Only available <after turn number [19]> <before turn number [20]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Grenadiers arriving on turn 19",
+        "unitNames": [
+            "739th Grenadier Regiment (709th Division)"
+        ],
+        "uniques": [
+            "Grenadiers",
+            "Only available <after turn number [19]> <before turn number [20]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Panzer IV arriving on turn 20",
+        "unitNames": [
+            "12th SS Panzer Regiment (II Battalion)"
+        ],
+        "uniques": [
+            "Panzer IV",
+            "Only available <after turn number [20]> <before turn number [21]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Grenadiers arriving on turn 20",
+        "unitNames": [
+            "Kampfgruppe Heintz (275th Division)"
+        ],
+        "uniques": [
+            "Grenadiers",
+            "Only available <after turn number [20]> <before turn number [21]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Grenadiers arriving on turn 21",
+        "unitNames": [
+            "857th Grenadier Regiment (346th Division)"
+        ],
+        "uniques": [
+            "Grenadiers",
+            "Only available <after turn number [21]> <before turn number [22]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "German Artillery arriving on turn 21",
+        "unitNames": [
+            "12th SS Artillery Regiment"
+        ],
+        "uniques": [
+            "German Artillery",
+            "Only available <after turn number [21]> <before turn number [22]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "88 Flak arriving on turn 21",
+        "unitNames": [
+            "12th SS Flak Battalion (88s)"
+        ],
+        "uniques": [
+            "88 Flak",
+            "Only available <after turn number [21]> <before turn number [22]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "German General arriving on turn 22",
+        "unitNames": [
+            "Fritz Witt"
+        ],
+        "uniques": [
+            "German General",
+            "Only available <after turn number [22]> <before turn number [23]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "88 Flak arriving on turn 22",
+        "unitNames": [
+            "Flak-Sturm-Regiment 1"
+        ],
+        "uniques": [
+            "88 Flak",
+            "Only available <after turn number [22]> <before turn number [23]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "German General arriving on turn 23",
+        "unitNames": [
+            "Sepp Dietrich"
+        ],
+        "uniques": [
+            "German General",
+            "Only available <after turn number [23]> <before turn number [24]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "German Artillery arriving on turn 24",
+        "unitNames": [
+            "1709th Artillery Regiment"
+        ],
+        "uniques": [
+            "German Artillery",
+            "Only available <after turn number [24]> <before turn number [25]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Panzergrenadiers arriving on turn 24",
+        "unitNames": [
+            "12th SS Reconnaissance Battalion (Bremer)"
+        ],
+        "uniques": [
+            "Panzergrenadiers",
+            "Only available <after turn number [24]> <before turn number [25]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Grenadiers arriving on turn 25",
+        "unitNames": [
+            "77th Infantry Division (advance guard)"
+        ],
+        "uniques": [
+            "Grenadiers",
+            "Only available <after turn number [25]> <before turn number [26]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Pioniere arriving on turn 26",
+        "unitNames": [
+            "12th SS Pioneer Battalion"
+        ],
+        "uniques": [
+            "Pioniere",
+            "Only available <after turn number [26]> <before turn number [27]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "US Infantry arriving on turn 30",
+        "unitNames": [
+            "23rd Infantry (2nd Division)"
+        ],
+        "uniques": [
+            "US Infantry",
+            "Only available <after turn number [30]> <before turn number [31]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "British General arriving on turn 30",
+        "unitNames": [
+            "Bernard L. Montgomery"
+        ],
+        "uniques": [
+            "British General",
+            "Only available <after turn number [30]> <before turn number [31]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Royal Artillery arriving on turn 30",
+        "unitNames": [
+            "I Corps Artillery"
+        ],
+        "uniques": [
+            "Royal Artillery",
+            "Only available <after turn number [30]> <before turn number [31]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Cromwell arriving on turn 31",
+        "unitNames": [
+            "11th Hussars"
+        ],
+        "uniques": [
+            "Cromwell",
+            "Only available <after turn number [31]> <before turn number [32]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "US Artillery arriving on turn 31",
+        "unitNames": [
+            "2nd Division Artillery"
+        ],
+        "uniques": [
+            "US Artillery",
+            "Only available <after turn number [31]> <before turn number [32]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "British General arriving on turn 32",
+        "unitNames": [
+            "Miles Dempsey"
+        ],
+        "uniques": [
+            "British General",
+            "Only available <after turn number [32]> <before turn number [33]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "US Artillery arriving on turn 32",
+        "unitNames": [
+            "VII Corps Artillery"
+        ],
+        "uniques": [
+            "US Artillery",
+            "Only available <after turn number [32]> <before turn number [33]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Sherman arriving on turn 33",
+        "unitNames": [
+            "4th Armoured Brigade"
+        ],
+        "uniques": [
+            "Sherman",
+            "Only available <after turn number [33]> <before turn number [34]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Panzergrenadiers arriving on turn 30",
+        "unitNames": [
+            "26th SS Panzergrenadier Regiment (Mohnke)"
+        ],
+        "uniques": [
+            "Panzergrenadiers",
+            "Only available <after turn number [30]> <before turn number [31]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "German General arriving on turn 30",
+        "unitNames": [
+            "Fritz Bayerlein"
+        ],
+        "uniques": [
+            "German General",
+            "Only available <after turn number [30]> <before turn number [31]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Panther arriving on turn 31",
+        "unitNames": [
+            "12th SS Panzer Regiment (I Battalion)"
+        ],
+        "uniques": [
+            "Panther",
+            "Only available <after turn number [31]> <before turn number [32]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Panzergrenadiers arriving on turn 31",
+        "unitNames": [
+            "901st Panzergrenadier-Lehr Regiment"
+        ],
+        "uniques": [
+            "Panzergrenadiers",
+            "Only available <after turn number [31]> <before turn number [32]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Grenadiers arriving on turn 31",
+        "unitNames": [
+            "858th Grenadier Regiment (346th Division)"
+        ],
+        "uniques": [
+            "Grenadiers",
+            "Only available <after turn number [31]> <before turn number [32]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Panzer IV arriving on turn 32",
+        "unitNames": [
+            "Panzer-Lehr Regiment 130 (II Battalion)"
+        ],
+        "uniques": [
+            "Panzer IV",
+            "Only available <after turn number [32]> <before turn number [33]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Nebelwerfer arriving on turn 32",
+        "unitNames": [
+            "12th SS Werfer Battalion"
+        ],
+        "uniques": [
+            "Nebelwerfer",
+            "Only available <after turn number [32]> <before turn number [33]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Panther arriving on turn 33",
+        "unitNames": [
+            "Panzer Regiment 6 (I Battalion)"
+        ],
+        "uniques": [
+            "Panther",
+            "Only available <after turn number [33]> <before turn number [34]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Grenadiers arriving on turn 33",
+        "unitNames": [
+            "3rd Fallschirmjaeger Division (advance guard)"
+        ],
+        "uniques": [
+            "Grenadiers",
+            "Only available <after turn number [33]> <before turn number [34]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Panzergrenadiers arriving on turn 34",
+        "unitNames": [
+            "902nd Panzergrenadier-Lehr Regiment"
+        ],
+        "uniques": [
+            "Panzergrenadiers",
+            "Only available <after turn number [34]> <before turn number [35]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "German Artillery arriving on turn 35",
+        "unitNames": [
+            "Panzer-Lehr Artillery Regiment 130"
+        ],
+        "uniques": [
+            "German Artillery",
+            "Only available <after turn number [35]> <before turn number [36]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "Grenadiers arriving on turn 30",
+        "unitNames": [
+            "922nd Grenadier Regiment (243rd Division)"
+        ],
+        "uniques": [
+            "Grenadiers",
+            "Only available <after turn number [30]> <before turn number [31]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "StuG III arriving on turn 36",
+        "unitNames": [
+            "Panzerjaeger-Lehr-Abteilung 130"
+        ],
+        "uniques": [
+            "StuG III",
+            "Only available <after turn number [36]> <before turn number [37]> <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "US Generals",
+        "unitNames": [
+            "Omar N. Bradley",
+            "J. Lawton Collins",
+            "Leonard T. Gerow",
+            "Matthew B. Ridgway",
+            "Maxwell D. Taylor",
+            "James M. Gavin",
+            "Theodore Roosevelt Jr.",
+            "Norman D. Cota",
+            "Clarence R. Huebner",
+            "Raymond O. Barton",
+            "Charles H. Gerhardt"
+        ],
+        "uniques": [
+            "US General",
+            "Unavailable <if [Normandy Scenario] is constructed>"
+        ]
+    },
+    {
+        "name": "German Generals",
+        "unitNames": [
+            "Erwin Rommel",
+            "Erich Marcks",
+            "Friedrich Dollmann",
+            "Dietrich Kraiss",
+            "Wilhelm Richter",
+            "Karl-Wilhelm von Schlieben",
+            "Wilhelm Falley",
+            "Friedrich von der Heydte",
+            "Edgar Feuchtinger",
+            "Hans von Luck",
+            "Hermann von Oppeln-Bronikowski",
+            "Kurt Meyer",
+            "Fritz Witt",
+            "Fritz Bayerlein",
+            "Sepp Dietrich"
+        ],
+        "uniques": [
+            "German General",
+            "Unavailable <if [Normandy Scenario] is constructed>"
+        ]
+    }
+]

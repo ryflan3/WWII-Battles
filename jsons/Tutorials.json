@@ -1,0 +1,30 @@
+[
+    {
+        "name": "WWII Battles",
+        "civilopediaText": [
+            {"text": "WWII Battles", "header": 2},
+            {"text": "A Second World War ruleset for Unciv, beginning with D-Day: the Normandy landings, June 6-8."},
+            {"separator": true},
+            {"text": "How to play the battle", "header": 3},
+            {"text": "New Game > Map Type: Scenario > 'D-Day'. The scenario sets the ruleset, map and both armies for you. The variants marked Easiest, Easier, Harder and Hardest are the same battle with a weaker or stronger computer army. You command the Allies by default: to play Germany, click the Human/AI button next to each side to swap them."},
+            {"text": "Or: Map Type: Custom > 'Normandy (free play)' for a free-form game on the historical terrain: no armies, cities or war at the start - you build your own army. In that mode, declare war on the enemy yourself on turn 1 (Diplomacy, top left)."},
+            {"separator": true},
+            {"text": "Scale", "header": 3},
+            {"text": "One hex is about 2 km (1.25 miles). On D-Day each turn is one hour, from 6 AM (turn 0) to 10 PM; on June 7 and 8 each turn is two hours; each night is two turns. Turn 38 is 9 PM on June 8. In the scenario, the top bar shows the day of June (the calendar) and the hour on the 24-hour clock (the watch) next to the turn number."},
+            {"text": "Units are regiments and brigades, with some famous battalions. The airborne divisions start on the ground and the first assault waves in their landing craft off the beaches; every later wave and every German reinforcement arrives at its historical hour - open the 'Arrivals' and 'Landing Point' buildings in the Civilopedia to see the timetables."},
+            {"text": "Each side's first turn opens with a briefing and its orders. At the great moments of the battle, a message tells what happened at that hour in 1944. You can turn the history messages off from any of them; the reminder before the last turn always shows."},
+            {"text": "The armies are at war from the first turn. The terrain is revealed, but enemy troops are only seen where your own units can see them, and at night every unit sees one tile less. Cities cannot be razed, and no new units can be raised."},
+            {"separator": true},
+            {"text": "Landing", "header": 3},
+            {"text": "Allied land units can embark. Follow-up waves appear in their landing craft beside their fleet - Force U, O, G, J or S - and sail in: landing craft move 5 tiles, and landing on a beach takes the rest of the turn (Rangers, Commandos and DD tanks land without stopping). Once a beach is in Allied hands, its waves come ashore there instead. Once ashore, troops cannot re-embark. German units cannot enter the sea."},
+            {"separator": true},
+            {"text": "Winning", "header": 3},
+            {"text": "Hold the Beachhead: thirteen key positions - the five beaches, Sainte-Mère-Église, Carentan, Pointe du Hoc, Port-en-Bessin, Bayeux, Carpiquet, Caen and Pegasus Bridge. At the end of turn 38 (nightfall, June 8), the Allies win if they hold at least 10 of them - more than the 9 they actually held. Otherwise Germany wins Contain the Invasion.", "link": "Victory/Hold the Beachhead"},
+            {"text": "Breakout: the Allies win at once if they capture the German headquarters at Saint-Lô.", "link": "Victory/Breakout"},
+            {"text": "Into the Sea: Germany wins at once if it holds all five beaches at the end of any turn from turn 10 (4 PM, D-Day) onward.", "link": "Victory/Into the Sea"},
+            {"separator": true},
+            {"text": "Tactics of 1944", "header": 3},
+            {"text": "The hedgerows of the bocage, the woods and the towns favour the defender and blind the tanks; the open Caen plain favours the tanks and the guns. Attack from several sides at once - every extra adjacent unit adds a flanking bonus. Most artillery fires over obstacles, but towed guns must Set Up first. The Allied warships can shell anything within three tiles of the sea. Generals inspire troops within range, but a general who is caught is lost."}
+        ]
+    }
+]

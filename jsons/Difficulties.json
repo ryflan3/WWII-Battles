@@ -1,0 +1,227 @@
+[
+    {
+        "name": "Recruit",
+        "baseHappiness": 0,
+        "extraHappinessPerLuxury": 1,
+        "researchCostModifier": 1.0,
+        "unitCostModifier": 0.67,
+        "unitSupplyBase": 40,
+        "unitSupplyPerCity": 10,
+        "buildingCostModifier": 1.0,
+        "policyCostModifier": 1.0,
+        "unhappinessModifier": 0.5,
+        "barbarianBonus": 0.0,
+        "barbarianSpawnDelay": 1000,
+        "playerBonusStartingUnits": [
+            "Medium Tank",
+            "Field Artillery",
+            "Paratroopers",
+            "General"
+        ],
+        "aiDifficultyLevel": "Recruit",
+        "aiCityGrowthModifier": 1.0,
+        "aiUnitCostModifier": 1.4,
+        "aiBuildingCostModifier": 1.4,
+        "aiWonderCostModifier": 1.4,
+        "aiBuildingMaintenanceModifier": 1.0,
+        "aiUnitMaintenanceModifier": 1.0,
+        "aiUnitSupplyModifier": 0.0,
+        "aiFreeTechs": [],
+        "aiMajorCivBonusStartingUnits": [
+            "Medium Tank",
+            "Field Artillery",
+            "Paratroopers",
+            "General"
+        ],
+        "aiCityStateBonusStartingUnits": [],
+        "aiUnhappinessModifier": 1.0,
+        "aisExchangeTechs": false,
+        "turnBarbariansCanEnterPlayerTiles": 10000,
+        "clearBarbarianCampReward": 0,
+        "civilopediaText": [
+            {
+                "text": "Easiest. Your green troops get extra help; the enemy is short of fuel and ammunition."
+            }
+        ]
+    },
+    {
+        "name": "Regular",
+        "baseHappiness": 0,
+        "extraHappinessPerLuxury": 1,
+        "researchCostModifier": 1.0,
+        "unitCostModifier": 0.85,
+        "unitSupplyBase": 40,
+        "unitSupplyPerCity": 10,
+        "buildingCostModifier": 1.0,
+        "policyCostModifier": 1.0,
+        "unhappinessModifier": 0.5,
+        "barbarianBonus": 0.0,
+        "barbarianSpawnDelay": 1000,
+        "playerBonusStartingUnits": [
+            "Medium Tank",
+            "Field Artillery",
+            "Paratroopers",
+            "General"
+        ],
+        "aiDifficultyLevel": "Regular",
+        "aiCityGrowthModifier": 1.0,
+        "aiUnitCostModifier": 1.15,
+        "aiBuildingCostModifier": 1.15,
+        "aiWonderCostModifier": 1.15,
+        "aiBuildingMaintenanceModifier": 1.0,
+        "aiUnitMaintenanceModifier": 1.0,
+        "aiUnitSupplyModifier": 0.0,
+        "aiFreeTechs": [],
+        "aiMajorCivBonusStartingUnits": [
+            "Medium Tank",
+            "Field Artillery",
+            "Paratroopers",
+            "General"
+        ],
+        "aiCityStateBonusStartingUnits": [],
+        "aiUnhappinessModifier": 1.0,
+        "aisExchangeTechs": false,
+        "turnBarbariansCanEnterPlayerTiles": 10000,
+        "clearBarbarianCampReward": 0,
+        "civilopediaText": [
+            {
+                "text": "Easy. A forgiving introduction to the battle for Normandy."
+            }
+        ]
+    },
+    {
+        "name": "Veteran",
+        "baseHappiness": 0,
+        "extraHappinessPerLuxury": 1,
+        "researchCostModifier": 1.0,
+        "unitCostModifier": 1.0,
+        "unitSupplyBase": 40,
+        "unitSupplyPerCity": 10,
+        "buildingCostModifier": 1.0,
+        "policyCostModifier": 1.0,
+        "unhappinessModifier": 0.5,
+        "barbarianBonus": 0.0,
+        "barbarianSpawnDelay": 1000,
+        "playerBonusStartingUnits": [
+            "Medium Tank",
+            "Field Artillery",
+            "Paratroopers",
+            "General"
+        ],
+        "aiDifficultyLevel": "Veteran",
+        "aiCityGrowthModifier": 1.0,
+        "aiUnitCostModifier": 1.0,
+        "aiBuildingCostModifier": 1.0,
+        "aiWonderCostModifier": 1.0,
+        "aiBuildingMaintenanceModifier": 1.0,
+        "aiUnitMaintenanceModifier": 1.0,
+        "aiUnitSupplyModifier": 0.0,
+        "aiFreeTechs": [],
+        "aiMajorCivBonusStartingUnits": [
+            "Medium Tank",
+            "Field Artillery",
+            "Paratroopers",
+            "General"
+        ],
+        "aiCityStateBonusStartingUnits": [],
+        "aiUnhappinessModifier": 1.0,
+        "aisExchangeTechs": false,
+        "turnBarbariansCanEnterPlayerTiles": 10000,
+        "clearBarbarianCampReward": 0,
+        "civilopediaText": [
+            {
+                "text": "Standard. Both sides fight at their historical strength."
+            }
+        ]
+    },
+    {
+        "name": "Elite",
+        "baseHappiness": 0,
+        "extraHappinessPerLuxury": 1,
+        "researchCostModifier": 1.0,
+        "unitCostModifier": 1.0,
+        "unitSupplyBase": 40,
+        "unitSupplyPerCity": 10,
+        "buildingCostModifier": 1.0,
+        "policyCostModifier": 1.0,
+        "unhappinessModifier": 0.5,
+        "barbarianBonus": 0.0,
+        "barbarianSpawnDelay": 1000,
+        "playerBonusStartingUnits": [
+            "Medium Tank",
+            "Field Artillery",
+            "Paratroopers",
+            "General"
+        ],
+        "aiDifficultyLevel": "Elite",
+        "aiCityGrowthModifier": 1.0,
+        "aiUnitCostModifier": 0.85,
+        "aiBuildingCostModifier": 0.85,
+        "aiWonderCostModifier": 0.85,
+        "aiBuildingMaintenanceModifier": 1.0,
+        "aiUnitMaintenanceModifier": 1.0,
+        "aiUnitSupplyModifier": 0.0,
+        "aiFreeTechs": [],
+        "aiMajorCivBonusStartingUnits": [
+            "Medium Tank",
+            "Field Artillery",
+            "Paratroopers",
+            "General"
+        ],
+        "aiCityStateBonusStartingUnits": [],
+        "aiUnhappinessModifier": 1.0,
+        "aisExchangeTechs": false,
+        "turnBarbariansCanEnterPlayerTiles": 10000,
+        "clearBarbarianCampReward": 0,
+        "civilopediaText": [
+            {
+                "text": "Hard. The enemy fights harder: +10% strength for computer-controlled armies."
+            }
+        ]
+    },
+    {
+        "name": "Bloody Omaha",
+        "baseHappiness": 0,
+        "extraHappinessPerLuxury": 1,
+        "researchCostModifier": 1.0,
+        "unitCostModifier": 1.0,
+        "unitSupplyBase": 40,
+        "unitSupplyPerCity": 10,
+        "buildingCostModifier": 1.0,
+        "policyCostModifier": 1.0,
+        "unhappinessModifier": 0.5,
+        "barbarianBonus": 0.0,
+        "barbarianSpawnDelay": 1000,
+        "playerBonusStartingUnits": [
+            "Medium Tank",
+            "Field Artillery",
+            "Paratroopers",
+            "General"
+        ],
+        "aiDifficultyLevel": "Bloody Omaha",
+        "aiCityGrowthModifier": 1.0,
+        "aiUnitCostModifier": 0.7,
+        "aiBuildingCostModifier": 0.7,
+        "aiWonderCostModifier": 0.7,
+        "aiBuildingMaintenanceModifier": 1.0,
+        "aiUnitMaintenanceModifier": 1.0,
+        "aiUnitSupplyModifier": 0.0,
+        "aiFreeTechs": [],
+        "aiMajorCivBonusStartingUnits": [
+            "Medium Tank",
+            "Field Artillery",
+            "Paratroopers",
+            "General"
+        ],
+        "aiCityStateBonusStartingUnits": [],
+        "aiUnhappinessModifier": 1.0,
+        "aisExchangeTechs": false,
+        "turnBarbariansCanEnterPlayerTiles": 10000,
+        "clearBarbarianCampReward": 0,
+        "civilopediaText": [
+            {
+                "text": "Hardest. The enemy fights at +20% strength. Named for the beach where the landing nearly failed."
+            }
+        ]
+    }
+]

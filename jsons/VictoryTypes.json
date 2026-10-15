@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Hold the Beachhead",
+        "victoryScreenHeader": "Allies only: hold at least 10 of the 13 KEY POSITIONS at nightfall on June 8 (the end of turn 38) - as many as the Allies actually held in 1944. The key positions: Utah Beach, Sainte-Mère-Église, Carentan, Pointe du Hoc, Omaha Beach, Port-en-Bessin, Gold Beach, Bayeux, Juno Beach, Carpiquet, Caen, Sword Beach and Pegasus Bridge.",
+        "milestones": [
+            "Have at least [10] [[Key Position] Buildings]"
+        ],
+        "uniques": [
+            "Only available <for [Allies] Civilizations> <after turn number [38]>"
+        ],
+        "victoryString": "The beachhead is secure and ahead of schedule. The Allies are in France to stay - eleven months later, Germany surrenders.",
+        "defeatString": "The Allies have broken through the Atlantic Wall and reached their objectives. The invasion has succeeded.",
+        "civilopediaText": [
+            {
+                "text": "In the D-Day scenario each key position is a city. Sainte-Mère-Église and Pegasus Bridge start in Allied hands - the airborne took them in the night. The other 11, including all five beaches, start German. Cities cannot be razed, so a key position, once taken, is always held by one side or the other."
+            },
+            {
+                "text": "The check is made from turn 38 onward, at the end of each side's turn. By nightfall on June 8, 1944, the Allies held 10 of the 13: everything but Carentan, Carpiquet and Caen. Montgomery had hoped for Caen on D-Day itself. To win, you must hold 10 - as many as the Allies actually held in 1944."
+            }
+        ]
+    },
+    {
+        "name": "Contain the Invasion",
+        "victoryScreenHeader": "Germany only: hold at least 4 of the 13 KEY POSITIONS at nightfall on June 8 (the end of turn 38), and the Allies are penned into a beachhead short of their objectives.",
+        "milestones": [
+            "Have at least [4] [[Key Position] Buildings]"
+        ],
+        "uniques": [
+            "Only available <for [Germany] Civilizations> <after turn number [38]>"
+        ],
+        "victoryString": "The invasion has been contained. The Allies are penned into a strip of coast short of Caen, and the battle for Normandy will be long and bloody.",
+        "defeatString": "The Allies are ashore but held short of their objectives. The battle for Normandy will be long and bloody.",
+        "civilopediaText": [
+            {
+                "text": "The German counterpart of Hold the Beachhead: with 4 or more key positions still German at the end of turn 38, the Allies cannot have reached their 10. Historically the Germans still held Carentan, Carpiquet and Caen on June 8 - 3 by this count. Holding Caen bought them six weeks of hard fighting, but they could not stop the build-up on the beaches."
+            }
+        ]
+    },
+    {
+        "name": "Breakout",
+        "victoryScreenHeader": "Allies only: capture the German headquarters at Saint-Lô (the German capital) to break the defence of Normandy at once.",
+        "milestones": [
+            "Capture all capitals"
+        ],
+        "uniques": [
+            "Only available <for [Allies] Civilizations>"
+        ],
+        "victoryString": "Saint-Lô has fallen, and with it the German command in Normandy. The road to Paris is open.",
+        "defeatString": "Saint-Lô has fallen. The front in Normandy has collapsed.",
+        "civilopediaText": [
+            {
+                "text": "Only the Allies can win this way: the Allied headquarters is aboard ship, out of the German army's reach. Saint-Lô, General Marcks's LXXXIV Corps headquarters, lies in the south-west corner of the map and is far stronger than any other city."
+            },
+            {
+                "text": "Historically it took until July 18 - six weeks of hedgerow fighting - before the Americans entered the ruins of Saint-Lô; the breakout, Operation Cobra, began a week later."
+            }
+        ]
+    },
+    {
+        "name": "Into the Sea",
+        "victoryScreenHeader": "Germany only: hold all five beaches at the end of any turn from turn 10 (4 PM, June 6) onward, and the invasion has failed.",
+        "milestones": [
+            "Have at least [5] [[Beach Defenses] Buildings]"
+        ],
+        "uniques": [
+            "Only available <for [Germany] Civilizations> <after turn number [10]>"
+        ],
+        "victoryString": "The landings have been thrown back into the sea. It will be a long time before the Allies try again.",
+        "defeatString": "The landings have failed. Eisenhower's note takes the blame: 'If any blame or fault attaches to the attempt it is mine alone.'",
+        "civilopediaText": [
+            {
+                "text": "Rommel's whole plan was to defeat the invasion on the beaches, in the first hours, before the Allies could bring their strength ashore. The beaches are the cities of Utah Beach, Omaha Beach, Gold Beach, Juno Beach and Sword Beach; this victory counts their Beach Defenses."
+            },
+            {
+                "text": "It came closest at Omaha, where by mid-morning General Bradley considered diverting the follow-up waves to the other beaches. Eisenhower had written a note to be released if the landings failed."
+            }
+        ]
+    }
+]

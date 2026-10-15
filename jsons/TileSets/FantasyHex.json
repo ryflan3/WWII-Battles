@@ -1,0 +1,348 @@
+{
+    "ruleVariants": {
+        "Grassland+Forest": [
+            "Grassland",
+            "GrasslandForest"
+        ],
+        "Grassland+Forest+Bocage": [
+            "Grassland",
+            "Bocage",
+            "GrasslandForest"
+        ],
+        "Grassland+Forest+Orchard": [
+            "Grassland",
+            "Orchard",
+            "GrasslandForest"
+        ],
+        "Grassland+Forest+Town": [
+            "Grassland",
+            "Town",
+            "GrasslandForest"
+        ],
+        "Grassland+Forest+Beach": [
+            "Grassland",
+            "Beach",
+            "GrasslandForest"
+        ],
+        "Grassland+Forest+Bluffs": [
+            "Grassland",
+            "Bluffs",
+            "GrasslandForest"
+        ],
+        "Grassland+Forest+Cliffs": [
+            "Grassland",
+            "Cliffs",
+            "GrasslandForest"
+        ],
+        "Grassland+Forest+Flooded": [
+            "Grassland",
+            "Flooded",
+            "GrasslandForest"
+        ],
+        "Grassland+Hill": [
+            "Grassland",
+            "Hill"
+        ],
+        "Grassland+Hill+Bocage": [
+            "Grassland",
+            "Hill",
+            "Bocage"
+        ],
+        "Grassland+Hill+Orchard": [
+            "Grassland",
+            "Hill",
+            "Orchard"
+        ],
+        "Grassland+Hill+Town": [
+            "Grassland",
+            "Hill",
+            "Town"
+        ],
+        "Grassland+Hill+Beach": [
+            "Grassland",
+            "Hill",
+            "Beach"
+        ],
+        "Grassland+Hill+Bluffs": [
+            "Grassland",
+            "Hill",
+            "Bluffs"
+        ],
+        "Grassland+Hill+Cliffs": [
+            "Grassland",
+            "Hill",
+            "Cliffs"
+        ],
+        "Grassland+Hill+Flooded": [
+            "Grassland",
+            "Hill",
+            "Flooded"
+        ],
+        "Grassland+Hill+Forest": [
+            "Grassland",
+            "Hill",
+            "Forest"
+        ],
+        "Grassland+Hill+Forest+Bocage": [
+            "Grassland",
+            "Hill",
+            "Bocage",
+            "Forest"
+        ],
+        "Grassland+Hill+Forest+Orchard": [
+            "Grassland",
+            "Hill",
+            "Orchard",
+            "Forest"
+        ],
+        "Grassland+Hill+Forest+Town": [
+            "Grassland",
+            "Hill",
+            "Town",
+            "Forest"
+        ],
+        "Grassland+Hill+Forest+Beach": [
+            "Grassland",
+            "Hill",
+            "Beach",
+            "Forest"
+        ],
+        "Grassland+Hill+Forest+Bluffs": [
+            "Grassland",
+            "Hill",
+            "Bluffs",
+            "Forest"
+        ],
+        "Grassland+Hill+Forest+Cliffs": [
+            "Grassland",
+            "Hill",
+            "Cliffs",
+            "Forest"
+        ],
+        "Grassland+Hill+Forest+Flooded": [
+            "Grassland",
+            "Hill",
+            "Flooded",
+            "Forest"
+        ],
+        "Grassland+Ridge+Forest": [
+            "Grassland",
+            "Ridge",
+            "GrasslandForest"
+        ],
+        "Grassland+Ridge+Forest+Bocage": [
+            "Grassland",
+            "Ridge",
+            "Bocage",
+            "GrasslandForest"
+        ],
+        "Grassland+Ridge+Forest+Orchard": [
+            "Grassland",
+            "Ridge",
+            "Orchard",
+            "GrasslandForest"
+        ],
+        "Grassland+Ridge+Forest+Town": [
+            "Grassland",
+            "Ridge",
+            "Town",
+            "GrasslandForest"
+        ],
+        "Grassland+Ridge+Forest+Beach": [
+            "Grassland",
+            "Ridge",
+            "Beach",
+            "GrasslandForest"
+        ],
+        "Grassland+Ridge+Forest+Bluffs": [
+            "Grassland",
+            "Ridge",
+            "Bluffs",
+            "GrasslandForest"
+        ],
+        "Grassland+Ridge+Forest+Cliffs": [
+            "Grassland",
+            "Ridge",
+            "Cliffs",
+            "GrasslandForest"
+        ],
+        "Grassland+Ridge+Forest+Flooded": [
+            "Grassland",
+            "Ridge",
+            "Flooded",
+            "GrasslandForest"
+        ],
+        "Plains+Forest": [
+            "Plains",
+            "PlainsForest"
+        ],
+        "Plains+Forest+Bocage": [
+            "Plains",
+            "Bocage",
+            "PlainsForest"
+        ],
+        "Plains+Forest+Orchard": [
+            "Plains",
+            "Orchard",
+            "PlainsForest"
+        ],
+        "Plains+Forest+Town": [
+            "Plains",
+            "Town",
+            "PlainsForest"
+        ],
+        "Plains+Forest+Beach": [
+            "Plains",
+            "Beach",
+            "PlainsForest"
+        ],
+        "Plains+Forest+Bluffs": [
+            "Plains",
+            "Bluffs",
+            "PlainsForest"
+        ],
+        "Plains+Forest+Cliffs": [
+            "Plains",
+            "Cliffs",
+            "PlainsForest"
+        ],
+        "Plains+Forest+Flooded": [
+            "Plains",
+            "Flooded",
+            "PlainsForest"
+        ],
+        "Plains+Hill": [
+            "Plains",
+            "Hill"
+        ],
+        "Plains+Hill+Bocage": [
+            "Plains",
+            "Hill",
+            "Bocage"
+        ],
+        "Plains+Hill+Orchard": [
+            "Plains",
+            "Hill",
+            "Orchard"
+        ],
+        "Plains+Hill+Town": [
+            "Plains",
+            "Hill",
+            "Town"
+        ],
+        "Plains+Hill+Beach": [
+            "Plains",
+            "Hill",
+            "Beach"
+        ],
+        "Plains+Hill+Bluffs": [
+            "Plains",
+            "Hill",
+            "Bluffs"
+        ],
+        "Plains+Hill+Cliffs": [
+            "Plains",
+            "Hill",
+            "Cliffs"
+        ],
+        "Plains+Hill+Flooded": [
+            "Plains",
+            "Hill",
+            "Flooded"
+        ],
+        "Plains+Hill+Forest": [
+            "Plains",
+            "Hill",
+            "Forest"
+        ],
+        "Plains+Hill+Forest+Bocage": [
+            "Plains",
+            "Hill",
+            "Bocage",
+            "Forest"
+        ],
+        "Plains+Hill+Forest+Orchard": [
+            "Plains",
+            "Hill",
+            "Orchard",
+            "Forest"
+        ],
+        "Plains+Hill+Forest+Town": [
+            "Plains",
+            "Hill",
+            "Town",
+            "Forest"
+        ],
+        "Plains+Hill+Forest+Beach": [
+            "Plains",
+            "Hill",
+            "Beach",
+            "Forest"
+        ],
+        "Plains+Hill+Forest+Bluffs": [
+            "Plains",
+            "Hill",
+            "Bluffs",
+            "Forest"
+        ],
+        "Plains+Hill+Forest+Cliffs": [
+            "Plains",
+            "Hill",
+            "Cliffs",
+            "Forest"
+        ],
+        "Plains+Hill+Forest+Flooded": [
+            "Plains",
+            "Hill",
+            "Flooded",
+            "Forest"
+        ],
+        "Plains+Ridge+Forest": [
+            "Plains",
+            "Ridge",
+            "PlainsForest"
+        ],
+        "Plains+Ridge+Forest+Bocage": [
+            "Plains",
+            "Ridge",
+            "Bocage",
+            "PlainsForest"
+        ],
+        "Plains+Ridge+Forest+Orchard": [
+            "Plains",
+            "Ridge",
+            "Orchard",
+            "PlainsForest"
+        ],
+        "Plains+Ridge+Forest+Town": [
+            "Plains",
+            "Ridge",
+            "Town",
+            "PlainsForest"
+        ],
+        "Plains+Ridge+Forest+Beach": [
+            "Plains",
+            "Ridge",
+            "Beach",
+            "PlainsForest"
+        ],
+        "Plains+Ridge+Forest+Bluffs": [
+            "Plains",
+            "Ridge",
+            "Bluffs",
+            "PlainsForest"
+        ],
+        "Plains+Ridge+Forest+Cliffs": [
+            "Plains",
+            "Ridge",
+            "Cliffs",
+            "PlainsForest"
+        ],
+        "Plains+Ridge+Forest+Flooded": [
+            "Plains",
+            "Ridge",
+            "Flooded",
+            "PlainsForest"
+        ]
+    }
+}

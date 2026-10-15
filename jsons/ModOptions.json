@@ -1,0 +1,22 @@
+{
+    "isBaseRuleset": true,
+    "unitset": "WWII",
+    "uniques": [
+        "Disable religion",
+        "Cannot be used as permanent audiovisual mod",
+        "Mod preselects map [Normandy (free play)]"
+    ],
+    "constants": {
+        "minimumWarDuration": 1000,
+        "minimalCityDistance": 2,
+        "minimalCityDistanceOnDifferentContinents": 2,
+        "baseCityBombardRange": 1,
+        "cityStrengthBase": 10.0,
+        "cityStrengthFromGarrison": 0.25,
+        "cityStrengthFromTechsFullMultiplier": 0.0,
+        "naturalWonderCountMultiplier": 0.0,
+        "naturalWonderCountAddedConstant": 0.0,
+        "ancientRuinCountMultiplier": 0.0,
+        "maxXPfromBarbarians": 10
+    }
+}

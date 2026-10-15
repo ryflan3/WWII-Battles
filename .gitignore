@@ -1,0 +1,10 @@
+# build products of the generator tools (the shipped mod files are committed)
+tools/build/
+tools/cwtool/lib/
+tools/cwtool/work/
+tools/cwtool/build/
+tools/cwtool/.gradle/
+tools/cwtool/.kotlin/
+__pycache__/
+*.pyc
+.DS_Store

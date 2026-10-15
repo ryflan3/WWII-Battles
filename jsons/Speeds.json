@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Battle Pace",
+        "modifier": 1.0,
+        "productionCostModifier": 1.0,
+        "goldCostModifier": 1.0,
+        "scienceCostModifier": 1.0,
+        "cultureCostModifier": 1.0,
+        "faithCostModifier": 1.0,
+        "improvementBuildLengthModifier": 1.0,
+        "barbarianModifier": 1.0,
+        "goldGiftModifier": 1.0,
+        "goldenAgeLengthModifier": 1.0,
+        "peaceDealDuration": 10,
+        "dealDuration": 30,
+        "startYear": 1944,
+        "turns": [
+            {"yearsPerTurn": 0.001, "untilTurn": 1000}
+        ],
+        "civilopediaText": [
+            {"text": "On D-Day, June 6, one turn is one hour. On June 7 and 8 one turn is two hours. Each night passes in two turns, during which armies moved up and dug in."},
+            {"text": "The year in the top bar stays on the year of the battle. In the scenario, the clock beside it shows the day of June (the calendar) and the hour on the 24-hour clock (the watch): turn 0 is 6 AM on June 6."}
+        ]
+    }
+]

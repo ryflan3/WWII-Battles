@@ -1,0 +1,81 @@
+[
+    {
+        "name": "Infantry",
+        "movementType": "Land",
+        "uniques": [
+            "Can build [Foxholes] improvements on tiles"
+        ],
+        "civilopediaText": [
+            {"text": "Infantry regiments and brigades of about 3,000 men. They took and held the ground, and in the hedgerows they did almost all the fighting."},
+            {"text": "Infantry can dig Foxholes."}
+        ]
+    },
+    {
+        "name": "Airborne",
+        "movementType": "Land",
+        "uniques": [
+            "Can build [Foxholes] improvements on tiles"
+        ],
+        "civilopediaText": [
+            {"text": "Parachute and glider infantry: lightly armed, but picked, superbly trained and used to fighting surrounded."}
+        ]
+    },
+    {
+        "name": "Armor",
+        "movementType": "Land",
+        "uniques": [
+            "Can move after attacking",
+            "[-20]% Strength <when fighting in [Rough terrain] tiles>"
+        ],
+        "civilopediaText": [
+            {"text": "Tanks, assault guns and tank destroyers. Fast and powerful in the open fields around Caen; blind and vulnerable in the hedgerows, woods and towns, where an enemy with an anti-tank gun or a Panzerfaust could wait unseen a few yards away: -20% in rough terrain."},
+            {"text": "Armour can move after attacking."}
+        ]
+    },
+    {
+        "name": "Anti-Tank",
+        "movementType": "Land",
+        "uniques": [
+            "[-25]% Strength <when attacking>"
+        ],
+        "civilopediaText": [
+            {"text": "Towed anti-tank guns: deadly when dug in and waiting for tanks, poor in the attack (-25%)."}
+        ]
+    },
+    {
+        "name": "Artillery",
+        "movementType": "Land",
+        "civilopediaText": [
+            {"text": "Field artillery battalions and regiments. Unlike the guns of earlier wars they fired from behind cover at targets their forward observers could see, so most of them fire over obstacles."},
+            {"text": "Towed guns must Set Up before firing. Self-propelled guns and rocket launchers need not."}
+        ]
+    },
+    {
+        "name": "Fortification",
+        "movementType": "Land",
+        "civilopediaText": [
+            {"text": "Coast-defence batteries in concrete casemates. They cannot move."}
+        ]
+    },
+    {
+        "name": "Warship",
+        "movementType": "Water",
+        "civilopediaText": [
+            {"text": "Battleships, cruisers and destroyers of the bombarding forces. Naval gunfire was the Allies' heavy artillery on D-Day and for weeks afterwards: it could reach well inland, and German commanders came to dread it."}
+        ]
+    },
+    {
+        "name": "Commander",
+        "movementType": "Land",
+        "civilopediaText": [
+            {"text": "Corps and division commanders with their staffs. They inspire nearby troops but cannot fight, and they are lost if the enemy reaches them."}
+        ]
+    },
+    {
+        "name": "Support",
+        "movementType": "Land",
+        "civilopediaText": [
+            {"text": "Supply columns and medical units: non-combatants that keep the army supplied and its wounded alive."}
+        ]
+    }
+]

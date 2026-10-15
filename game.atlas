@@ -1,0 +1,2267 @@
+
+game.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Allied Arrivals: Force G
+  rotate: false
+  xy: 140, 1300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Allied Arrivals: Force J
+  rotate: false
+  xy: 140, 1300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Allied Arrivals: Force O
+  rotate: false
+  xy: 140, 1300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Allied Arrivals: Force S
+  rotate: false
+  xy: 140, 1300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Allied Arrivals: Force U
+  rotate: false
+  xy: 140, 1300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Landing Point: Gold Beach
+  rotate: false
+  xy: 140, 1300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Landing Point: Juno Beach
+  rotate: false
+  xy: 140, 1300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Landing Point: Omaha Beach
+  rotate: false
+  xy: 140, 1300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Landing Point: Sword Beach
+  rotate: false
+  xy: 140, 1300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Landing Point: Utah Beach
+  rotate: false
+  xy: 140, 1300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Allied Arrivals: Pegasus Bridge
+  rotate: false
+  xy: 376, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Allied Arrivals: Sainte-Mere-Eglise
+  rotate: false
+  xy: 376, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Beach Defenses
+  rotate: false
+  xy: 140, 868
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/German Arrivals: Falaise Road
+  rotate: false
+  xy: 248, 760
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/German Arrivals: Lisieux Road
+  rotate: false
+  xy: 248, 760
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/German Arrivals: Saint-Lo
+  rotate: false
+  xy: 248, 760
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/German Arrivals: Valognes Road
+  rotate: false
+  xy: 248, 760
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/German Arrivals: Villers-Bocage
+  rotate: false
+  xy: 248, 760
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Headquarters
+  rotate: false
+  xy: 248, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Key Position
+  rotate: false
+  xy: 572, 1420
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Supply Depot
+  rotate: false
+  xy: 788, 1204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Transport Area
+  rotate: false
+  xy: 1004, 1420
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Foxholes
+  rotate: false
+  xy: 248, 976
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+LeaderIcons/Dwight D. Eisenhower
+  rotate: false
+  xy: 4, 1780
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Erwin Rommel
+  rotate: false
+  xy: 4, 1516
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+NationIcons/Allies
+  rotate: false
+  xy: 140, 1192
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Germany
+  rotate: false
+  xy: 248, 544
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/History off
+  rotate: false
+  xy: 356, 1420
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Hour
+  rotate: false
+  xy: 356, 1312
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/June
+  rotate: false
+  xy: 464, 1312
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Bayeux
+  rotate: false
+  xy: 1040, 1172
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Beach
+  rotate: false
+  xy: 1328, 1236
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Bluffs
+  rotate: false
+  xy: 1080, 1172
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Bocage
+  rotate: false
+  xy: 1368, 1236
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Brecourt Manor
+  rotate: false
+  xy: 1120, 1172
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Caen
+  rotate: false
+  xy: 1408, 1236
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Carentan
+  rotate: false
+  xy: 1160, 1172
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Carpiquet Airfield
+  rotate: false
+  xy: 1448, 1236
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Allies-Second World War
+  rotate: false
+  xy: 1200, 1172
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Germany-Second World War
+  rotate: false
+  xy: 1488, 1236
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Second World War
+  rotate: false
+  xy: 1240, 1172
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Cliffs
+  rotate: false
+  xy: 1528, 1236
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coast+City center-Allies-Second World War
+  rotate: false
+  xy: 1280, 1172
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Courseulles
+  rotate: false
+  xy: 1568, 1236
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Crisbecq Battery
+  rotate: false
+  xy: 1608, 1236
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Douvres Radar Station
+  rotate: false
+  xy: 1648, 1236
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Flooded
+  rotate: false
+  xy: 1688, 1236
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Foxholes
+  rotate: false
+  xy: 1728, 1236
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Iles Saint-Marcouf
+  rotate: false
+  xy: 1768, 1236
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/La Breche
+  rotate: false
+  xy: 1808, 1236
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/La Fiere Causeway
+  rotate: false
+  xy: 788, 824
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/La Madeleine
+  rotate: false
+  xy: 788, 788
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Le Hamel
+  rotate: false
+  xy: 788, 752
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Les Moulins
+  rotate: false
+  xy: 1004, 1128
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Longues Battery
+  rotate: false
+  xy: 1004, 1092
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Merville Battery
+  rotate: false
+  xy: 1004, 1056
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Orchard
+  rotate: false
+  xy: 1004, 1020
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Pegasus Bridge
+  rotate: false
+  xy: 1004, 984
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Pointe du Hoc
+  rotate: false
+  xy: 1976, 1520
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Port-en-Bessin
+  rotate: false
+  xy: 1976, 1484
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ridge
+  rotate: false
+  xy: 1976, 1448
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sainte-Mere-Eglise
+  rotate: false
+  xy: 1976, 1412
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Town
+  rotate: false
+  xy: 1976, 1376
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Vierville Draw
+  rotate: false
+  xy: 1328, 1200
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Bayeux
+  rotate: false
+  xy: 356, 600
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Beach
+  rotate: false
+  xy: 464, 708
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Bluffs
+  rotate: false
+  xy: 572, 816
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Bocage
+  rotate: false
+  xy: 680, 924
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Brecourt Manor
+  rotate: false
+  xy: 788, 1076
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Caen
+  rotate: false
+  xy: 1256, 1464
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Carentan
+  rotate: false
+  xy: 1328, 1464
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Carpiquet Airfield
+  rotate: false
+  xy: 356, 408
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/City center-Allies-Second World War
+  rotate: false
+  xy: 356, 344
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/City center-Germany-Second World War
+  rotate: false
+  xy: 1472, 1464
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/City center-Second World War
+  rotate: false
+  xy: 356, 280
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Cliffs
+  rotate: false
+  xy: 1544, 1464
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Coast+City center-Allies-Second World War
+  rotate: false
+  xy: 356, 216
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Courseulles
+  rotate: false
+  xy: 1760, 1464
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Crisbecq Battery
+  rotate: false
+  xy: 356, 24
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Douvres Radar Station
+  rotate: false
+  xy: 1184, 1400
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Flooded
+  rotate: false
+  xy: 1076, 1336
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Foxholes
+  rotate: false
+  xy: 1148, 1336
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Iles Saint-Marcouf
+  rotate: false
+  xy: 1652, 1336
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/La Breche
+  rotate: false
+  xy: 1724, 1336
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/La Fiere Causeway
+  rotate: false
+  xy: 1796, 1336
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/La Madeleine
+  rotate: false
+  xy: 1076, 1272
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Le Hamel
+  rotate: false
+  xy: 1148, 1272
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Les Moulins
+  rotate: false
+  xy: 1220, 1272
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Longues Battery
+  rotate: false
+  xy: 1292, 1272
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Merville Battery
+  rotate: false
+  xy: 1580, 1272
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Orchard
+  rotate: false
+  xy: 1724, 1272
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Pegasus Bridge
+  rotate: false
+  xy: 428, 324
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Pointe du Hoc
+  rotate: false
+  xy: 428, 196
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Port-en-Bessin
+  rotate: false
+  xy: 428, 132
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Ridge
+  rotate: false
+  xy: 428, 68
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Sainte-Mere-Eglise
+  rotate: false
+  xy: 536, 624
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Town
+  rotate: false
+  xy: 932, 1100
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Vierville Draw
+  rotate: false
+  xy: 1256, 1208
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/88 Flak
+  rotate: false
+  xy: 788, 1140
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Allied Anti-Tank Guns
+  rotate: false
+  xy: 896, 1248
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Anti-Tank Gun
+  rotate: false
+  xy: 1004, 1356
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Battleship
+  rotate: false
+  xy: 1112, 1464
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/British General
+  rotate: false
+  xy: 1184, 1464
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/British Infantry
+  rotate: false
+  xy: 356, 536
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/British Paratroopers
+  rotate: false
+  xy: 788, 1012
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Canadian Infantry
+  rotate: false
+  xy: 356, 472
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Churchill AVRE
+  rotate: false
+  xy: 1400, 1464
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Coastal Battery
+  rotate: false
+  xy: 1616, 1464
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Coastal Infantry
+  rotate: false
+  xy: 356, 152
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Combat Engineers
+  rotate: false
+  xy: 1688, 1464
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Commandos
+  rotate: false
+  xy: 356, 88
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Cromwell
+  rotate: false
+  xy: 1832, 1464
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Cruiser
+  rotate: false
+  xy: 896, 1184
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/DD Sherman
+  rotate: false
+  xy: 1004, 1292
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Destroyer
+  rotate: false
+  xy: 1112, 1400
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/EmbarkedUnit-Allied Anti-Tank Guns
+  rotate: false
+  xy: 1256, 1400
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/EmbarkedUnit-British Infantry
+  rotate: false
+  xy: 1328, 1400
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/EmbarkedUnit-British Paratroopers
+  rotate: false
+  xy: 1400, 1400
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/EmbarkedUnit-Canadian Infantry
+  rotate: false
+  xy: 1472, 1400
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/EmbarkedUnit-Churchill AVRE
+  rotate: false
+  xy: 1544, 1400
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/EmbarkedUnit-Civilian
+  rotate: false
+  xy: 1616, 1400
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/EmbarkedUnit-Combat Engineers
+  rotate: false
+  xy: 1688, 1400
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/EmbarkedUnit-Military
+  rotate: false
+  xy: 1688, 1400
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/EmbarkedUnit-US Infantry
+  rotate: false
+  xy: 1688, 1400
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/EmbarkedUnit-US Paratroopers
+  rotate: false
+  xy: 1688, 1400
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/EmbarkedUnit-Commandos
+  rotate: false
+  xy: 1760, 1400
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/EmbarkedUnit-Cromwell
+  rotate: false
+  xy: 1832, 1400
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/EmbarkedUnit-DD Sherman
+  rotate: false
+  xy: 464, 644
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/EmbarkedUnit-M10 Tank Destroyer
+  rotate: false
+  xy: 572, 752
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/EmbarkedUnit-Medics
+  rotate: false
+  xy: 680, 860
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/EmbarkedUnit-Royal Artillery
+  rotate: false
+  xy: 1904, 1492
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/EmbarkedUnit-Sherman
+  rotate: false
+  xy: 1904, 1428
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/EmbarkedUnit-Sherman Firefly
+  rotate: false
+  xy: 752, 924
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/EmbarkedUnit-Supply Column
+  rotate: false
+  xy: 752, 860
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/EmbarkedUnit-US Artillery
+  rotate: false
+  xy: 860, 1120
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/EmbarkedUnit-US Rangers
+  rotate: false
+  xy: 860, 1056
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Engineers
+  rotate: false
+  xy: 860, 992
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Fallschirmjaeger
+  rotate: false
+  xy: 968, 1228
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Field Artillery
+  rotate: false
+  xy: 968, 1164
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/General
+  rotate: false
+  xy: 1220, 1336
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/German Artillery
+  rotate: false
+  xy: 1292, 1336
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/German General
+  rotate: false
+  xy: 1364, 1336
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Grenadiers
+  rotate: false
+  xy: 1436, 1336
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Headquarters Ship
+  rotate: false
+  xy: 1508, 1336
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Heavy Tank
+  rotate: false
+  xy: 1580, 1336
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/M10 Tank Destroyer
+  rotate: false
+  xy: 1364, 1272
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Medics
+  rotate: false
+  xy: 1436, 1272
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Medium Tank
+  rotate: false
+  xy: 1508, 1272
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Nebelwerfer
+  rotate: false
+  xy: 1652, 1272
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Ost Battalion
+  rotate: false
+  xy: 1796, 1272
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Panther
+  rotate: false
+  xy: 428, 580
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Panzer IV
+  rotate: false
+  xy: 428, 516
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Panzergrenadiers
+  rotate: false
+  xy: 428, 452
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Paratroopers
+  rotate: false
+  xy: 428, 388
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Pioniere
+  rotate: false
+  xy: 428, 260
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Rifle Infantry
+  rotate: false
+  xy: 428, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Royal Artillery
+  rotate: false
+  xy: 536, 688
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Sherman
+  rotate: false
+  xy: 644, 796
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Sherman Firefly
+  rotate: false
+  xy: 716, 796
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/StuG III
+  rotate: false
+  xy: 644, 732
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Supply Column
+  rotate: false
+  xy: 716, 732
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/Tank Destroyer
+  rotate: false
+  xy: 1904, 1364
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/US Artillery
+  rotate: false
+  xy: 932, 1036
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/US General
+  rotate: false
+  xy: 932, 972
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/US Infantry
+  rotate: false
+  xy: 1040, 1208
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/US Paratroopers
+  rotate: false
+  xy: 1112, 1208
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/WWII/Units/US Rangers
+  rotate: false
+  xy: 1184, 1208
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+UnitIcons/88 Flak
+  rotate: false
+  xy: 140, 1408
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Allied Anti-Tank Guns
+  rotate: false
+  xy: 1900, 1664
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Anti-Tank Gun
+  rotate: false
+  xy: 1900, 1664
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Battleship
+  rotate: false
+  xy: 140, 976
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/British General
+  rotate: false
+  xy: 140, 760
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/British Infantry
+  rotate: false
+  xy: 916, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/British Paratroopers
+  rotate: false
+  xy: 140, 652
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Fallschirmjaeger
+  rotate: false
+  xy: 140, 652
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Canadian Infantry
+  rotate: false
+  xy: 1024, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Churchill AVRE
+  rotate: false
+  xy: 1132, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Heavy Tank
+  rotate: false
+  xy: 1132, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Coastal Battery
+  rotate: false
+  xy: 140, 436
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Coastal Infantry
+  rotate: false
+  xy: 1240, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ost Battalion
+  rotate: false
+  xy: 1240, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Combat Engineers
+  rotate: false
+  xy: 140, 328
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Engineers
+  rotate: false
+  xy: 140, 328
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Commandos
+  rotate: false
+  xy: 1348, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Cromwell
+  rotate: false
+  xy: 1456, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Cruiser
+  rotate: false
+  xy: 140, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/DD Sherman
+  rotate: false
+  xy: 1564, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Destroyer
+  rotate: false
+  xy: 1780, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Field Artillery
+  rotate: false
+  xy: 248, 1300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/German Artillery
+  rotate: false
+  xy: 248, 1300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/US Artillery
+  rotate: false
+  xy: 248, 1300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/General
+  rotate: false
+  xy: 248, 868
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/German General
+  rotate: false
+  xy: 248, 652
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Grenadiers
+  rotate: false
+  xy: 248, 436
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Headquarters Ship
+  rotate: false
+  xy: 248, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/M10 Tank Destroyer
+  rotate: false
+  xy: 464, 1204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Tank Destroyer
+  rotate: false
+  xy: 464, 1204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Medics
+  rotate: false
+  xy: 572, 1312
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Supply Column
+  rotate: false
+  xy: 572, 1312
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Medium Tank
+  rotate: false
+  xy: 680, 1420
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nebelwerfer
+  rotate: false
+  xy: 464, 1096
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Panther
+  rotate: false
+  xy: 572, 1204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Panzer IV
+  rotate: false
+  xy: 680, 1312
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Panzergrenadiers
+  rotate: false
+  xy: 788, 1420
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Paratroopers
+  rotate: false
+  xy: 356, 880
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Pioniere
+  rotate: false
+  xy: 464, 988
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rifle Infantry
+  rotate: false
+  xy: 680, 1204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/US Infantry
+  rotate: false
+  xy: 680, 1204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Royal Artillery
+  rotate: false
+  xy: 788, 1312
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sherman
+  rotate: false
+  xy: 896, 1420
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Sherman Firefly
+  rotate: false
+  xy: 356, 772
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/StuG III
+  rotate: false
+  xy: 680, 1096
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/US General
+  rotate: false
+  xy: 356, 664
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/US Paratroopers
+  rotate: false
+  xy: 464, 772
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/US Rangers
+  rotate: false
+  xy: 572, 880
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPortraits/88 Flak
+  rotate: false
+  xy: 268, 1908
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Allied Anti-Tank Guns
+  rotate: false
+  xy: 4, 1380
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Anti-Tank Gun
+  rotate: false
+  xy: 268, 1772
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Background
+  rotate: false
+  xy: 404, 1908
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Battleship
+  rotate: false
+  xy: 4, 1244
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/British General
+  rotate: false
+  xy: 268, 1636
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/British Infantry
+  rotate: false
+  xy: 404, 1772
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/British Paratroopers
+  rotate: false
+  xy: 540, 1908
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Canadian Infantry
+  rotate: false
+  xy: 4, 1108
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Churchill AVRE
+  rotate: false
+  xy: 404, 1636
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Coastal Battery
+  rotate: false
+  xy: 540, 1772
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Coastal Infantry
+  rotate: false
+  xy: 676, 1908
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Combat Engineers
+  rotate: false
+  xy: 4, 972
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Commandos
+  rotate: false
+  xy: 540, 1636
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Cromwell
+  rotate: false
+  xy: 676, 1772
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Cruiser
+  rotate: false
+  xy: 812, 1908
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/DD Sherman
+  rotate: false
+  xy: 4, 836
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Destroyer
+  rotate: false
+  xy: 676, 1636
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Engineers
+  rotate: false
+  xy: 812, 1772
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Fallschirmjaeger
+  rotate: false
+  xy: 948, 1908
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Field Artillery
+  rotate: false
+  xy: 4, 700
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/General
+  rotate: false
+  xy: 812, 1636
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/German Artillery
+  rotate: false
+  xy: 948, 1772
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/German General
+  rotate: false
+  xy: 1084, 1908
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Grenadiers
+  rotate: false
+  xy: 4, 564
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Headquarters Ship
+  rotate: false
+  xy: 948, 1636
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Heavy Tank
+  rotate: false
+  xy: 1084, 1772
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/M10 Tank Destroyer
+  rotate: false
+  xy: 1220, 1908
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Medics
+  rotate: false
+  xy: 4, 428
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Medium Tank
+  rotate: false
+  xy: 1084, 1636
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Nebelwerfer
+  rotate: false
+  xy: 1220, 1772
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Ost Battalion
+  rotate: false
+  xy: 1356, 1908
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Panther
+  rotate: false
+  xy: 4, 292
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Panzer IV
+  rotate: false
+  xy: 1220, 1636
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Panzergrenadiers
+  rotate: false
+  xy: 1356, 1772
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Paratroopers
+  rotate: false
+  xy: 1492, 1908
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Pioniere
+  rotate: false
+  xy: 4, 156
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Rifle Infantry
+  rotate: false
+  xy: 1356, 1636
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Royal Artillery
+  rotate: false
+  xy: 1492, 1772
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Sherman
+  rotate: false
+  xy: 1628, 1908
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Sherman Firefly
+  rotate: false
+  xy: 4, 20
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/StuG III
+  rotate: false
+  xy: 1492, 1636
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Supply Column
+  rotate: false
+  xy: 1628, 1772
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/Tank Destroyer
+  rotate: false
+  xy: 1764, 1908
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/US Artillery
+  rotate: false
+  xy: 1628, 1636
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/US General
+  rotate: false
+  xy: 1764, 1772
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/US Infantry
+  rotate: false
+  xy: 1900, 1908
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/US Paratroopers
+  rotate: false
+  xy: 1764, 1636
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPortraits/US Rangers
+  rotate: false
+  xy: 1900, 1772
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Air Observation Post
+  rotate: false
+  xy: 268, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Ambush
+  rotate: false
+  xy: 484, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Assault
+  rotate: false
+  xy: 140, 1084
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Battalion Aid Station
+  rotate: false
+  xy: 592, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Bazooka Teams
+  rotate: false
+  xy: 700, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Bernard L. Montgomery
+  rotate: false
+  xy: 808, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Douglas Graham
+  rotate: false
+  xy: 808, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/G. W. E. J. Erskine
+  rotate: false
+  xy: 808, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Gerard Bucknall
+  rotate: false
+  xy: 808, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/James Hill
+  rotate: false
+  xy: 808, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/John Crocker
+  rotate: false
+  xy: 808, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Lord Lovat
+  rotate: false
+  xy: 808, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Miles Dempsey
+  rotate: false
+  xy: 808, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Richard N. Gale
+  rotate: false
+  xy: 808, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Rod Keller
+  rotate: false
+  xy: 808, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Tom Rennie
+  rotate: false
+  xy: 808, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Charles H. Gerhardt
+  rotate: false
+  xy: 140, 544
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Clarence R. Huebner
+  rotate: false
+  xy: 140, 544
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/J. Lawton Collins
+  rotate: false
+  xy: 140, 544
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/James M. Gavin
+  rotate: false
+  xy: 140, 544
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Leonard T. Gerow
+  rotate: false
+  xy: 140, 544
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Matthew B. Ridgway
+  rotate: false
+  xy: 140, 544
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Maxwell D. Taylor
+  rotate: false
+  xy: 140, 544
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Norman D. Cota
+  rotate: false
+  xy: 140, 544
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Omar N. Bradley
+  rotate: false
+  xy: 140, 544
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Raymond O. Barton
+  rotate: false
+  xy: 140, 544
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Theodore Roosevelt Jr.
+  rotate: false
+  xy: 140, 544
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Counter-Battery
+  rotate: false
+  xy: 140, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Damage Control
+  rotate: false
+  xy: 1672, 1528
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Dietrich Kraiss
+  rotate: false
+  xy: 140, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Edgar Feuchtinger
+  rotate: false
+  xy: 140, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Erich Marcks
+  rotate: false
+  xy: 140, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Erwin Rommel
+  rotate: false
+  xy: 140, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Friedrich Dollmann
+  rotate: false
+  xy: 140, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Friedrich von der Heydte
+  rotate: false
+  xy: 140, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Fritz Bayerlein
+  rotate: false
+  xy: 140, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Fritz Witt
+  rotate: false
+  xy: 140, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Hans von Luck
+  rotate: false
+  xy: 140, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Hermann von Oppeln-Bronikowski
+  rotate: false
+  xy: 140, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Karl-Wilhelm von Schlieben
+  rotate: false
+  xy: 140, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Kurt Meyer
+  rotate: false
+  xy: 140, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Sepp Dietrich
+  rotate: false
+  xy: 140, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Wilhelm Falley
+  rotate: false
+  xy: 140, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Wilhelm Richter
+  rotate: false
+  xy: 140, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Dug In
+  rotate: false
+  xy: 1900, 1556
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Exploitation
+  rotate: false
+  xy: 248, 1408
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Fire Direction
+  rotate: false
+  xy: 248, 1192
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Forced March
+  rotate: false
+  xy: 248, 1084
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Gunnery
+  rotate: false
+  xy: 248, 328
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Hedgerow Fighting
+  rotate: false
+  xy: 248, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Hull Down
+  rotate: false
+  xy: 464, 1420
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Infantry Support
+  rotate: false
+  xy: 356, 1204
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Long Range
+  rotate: false
+  xy: 356, 1096
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Naval Gunfire
+  rotate: false
+  xy: 356, 988
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Rally
+  rotate: false
+  xy: 572, 1096
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Shoot and Scoot
+  rotate: false
+  xy: 464, 880
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Street Fighting
+  rotate: false
+  xy: 572, 988
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Tank Killers
+  rotate: false
+  xy: 896, 1312
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Veterans
+  rotate: false
+  xy: 680, 988
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

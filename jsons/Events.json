@@ -1,0 +1,701 @@
+[
+    {
+        "name": "D-Day: Allies briefing",
+        "text": "6 AM, June 6",
+        "civilopediaText": [
+            {
+                "text": "D-Day: the Normandy landings",
+                "header": 3
+            },
+            {
+                "text": "General Eisenhower: after a day's postponement for the weather, you gave the order - 'OK, let's go.' Operation Overlord, the invasion of German-occupied France, has begun."
+            },
+            {
+                "text": "In the night, three airborne divisions dropped behind the beaches. The American 82nd and 101st came down scattered across the Cotentin peninsula, but they hold Sainte-Mère-Église and parts of the Utah causeways. The British 6th Airborne seized the bridges over the Orne and the Caen Canal - Pegasus Bridge - and attacked the Merville battery."
+            },
+            {
+                "text": "Now it is 6 AM. The warships are bombarding the coast, and the first assault waves are in their landing craft off five beaches: the Americans at Utah and Omaha, the British at Gold and Sword, the Canadians at Juno."
+            }
+        ],
+        "choices": [
+            {
+                "text": "Your orders, General",
+                "uniques": [
+                    "Triggers a [D-Day: Allies orders] event <hidden from users>"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "D-Day: Allies orders",
+        "text": "6 AM, June 6",
+        "civilopediaText": [
+            {
+                "text": "Your orders, General Eisenhower",
+                "header": 3
+            },
+            {
+                "text": "Hold the Beachhead",
+                "header": 4
+            },
+            {
+                "text": "Thirteen KEY POSITIONS decide the battle: Utah Beach, Sainte-Mère-Église, Carentan, Pointe du Hoc, Omaha Beach, Port-en-Bessin, Gold Beach, Bayeux, Juno Beach, Carpiquet, Caen, Sword Beach and Pegasus Bridge. You hold Sainte-Mère-Église and Pegasus Bridge."
+            },
+            {
+                "text": "At nightfall on June 8 - the end of turn 38 - the Allies win if they hold at least 10 of them, as many as the Allies actually held in 1944. Otherwise Germany has contained the invasion and wins.",
+                "link": "Victory/Hold the Beachhead"
+            },
+            {
+                "text": "Breakout",
+                "header": 4
+            },
+            {
+                "text": "Capture the German headquarters at Saint-Lô and the battle is won at once - but it is far stronger than any other town. Your own headquarters is aboard ship, at Force G, out of the enemy's reach.",
+                "link": "Victory/Breakout"
+            },
+            {
+                "text": "Beware: if the Germans hold all five beaches at the end of any turn from turn 10 (4 PM today) onward, the invasion has failed.",
+                "link": "Victory/Into the Sea"
+            },
+            {
+                "separator": true
+            },
+            {
+                "text": "Follow-up waves arrive every hour at each fleet - Force U, O, G, J and S - and must sail in and land. Once you hold a beach, its waves come ashore there instead. Gliders land at Pegasus Bridge and Sainte-Mère-Église at 9 PM (turn 15). On June 7 and 8 come the 7th Armoured Division (Gold), the 2nd and 90th Infantry Divisions (Omaha and Utah) and the 51st Highland Division."
+            },
+            {
+                "text": "The 'Arrivals' and 'Landing Point' buildings in the Civilopedia list every unit and its turn. If the enemy takes a town where reinforcements arrive by road or by glider, those still due there are lost."
+            },
+            {
+                "text": "The top bar shows the day of June (the calendar) and the hour on the 24-hour clock (the watch) next to the turn number. On D-Day each turn is one hour; on June 7 and 8, two hours. Click the turn number to see the victory status."
+            },
+            {
+                "text": "Advice: get off the beaches before the panzers come. Engineers and the AVREs crack strongpoints; the warships can shell anything within three tiles of the sea; Rangers and Commandos land without losing a turn. Once ashore, troops cannot re-embark."
+            }
+        ],
+        "choices": [
+            {
+                "text": "Carry on"
+            },
+            {
+                "text": "Carry on (no history messages)",
+                "uniques": [
+                    "Set [History off] to [1] <hidden from users>"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "D-Day: Germany briefing",
+        "text": "6 AM, June 6",
+        "civilopediaText": [
+            {
+                "text": "D-Day: the Normandy landings",
+                "header": 3
+            },
+            {
+                "text": "Field Marshal Rommel: you are at home in Germany for your wife's birthday - the forecast promised days of storms, too rough for an invasion. Your army in Normandy must fight the first hours without you; you play General Marcks, commanding LXXXIV Corps from Saint-Lô."
+            },
+            {
+                "text": "In the night, enemy paratroopers came down all over the Cotentin and east of the Orne. They hold Sainte-Mère-Église and the bridges at Bénouville. Now, at dawn, the sea off the coast is covered with ships from horizon to horizon, and the bombardment has begun."
+            },
+            {
+                "text": "Your coast divisions are in their strongpoints. The 21st Panzer Division is south of Caen, waiting for orders. The other panzer divisions are held back on the Führer's orders - and the Führer is asleep."
+            }
+        ],
+        "choices": [
+            {
+                "text": "Your orders, Field Marshal",
+                "uniques": [
+                    "Triggers a [D-Day: Germany orders] event <hidden from users>"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "D-Day: Germany orders",
+        "text": "6 AM, June 6",
+        "civilopediaText": [
+            {
+                "text": "Your orders, Field Marshal Rommel",
+                "header": 3
+            },
+            {
+                "text": "Contain the Invasion",
+                "header": 4
+            },
+            {
+                "text": "Thirteen KEY POSITIONS decide the battle: Utah Beach, Sainte-Mère-Église, Carentan, Pointe du Hoc, Omaha Beach, Port-en-Bessin, Gold Beach, Bayeux, Juno Beach, Carpiquet, Caen, Sword Beach and Pegasus Bridge. You hold Utah Beach, Carentan, Pointe du Hoc, Omaha Beach, Port-en-Bessin, Gold Beach, Bayeux, Juno Beach, Carpiquet, Caen and Sword Beach."
+            },
+            {
+                "text": "At nightfall on June 8 - the end of turn 38 - the Allies win if they hold at least 10 of them, as many as the Allies actually held in 1944. Otherwise Germany has contained the invasion and wins.",
+                "link": "Victory/Contain the Invasion"
+            },
+            {
+                "text": "Into the Sea",
+                "header": 4
+            },
+            {
+                "text": "Hold all five beaches - Utah Beach, Omaha Beach, Gold Beach, Juno Beach and Sword Beach - at the end of any turn from turn 10 (4 PM today) onward and the invasion has failed. The enemy cannot win by taking your headquarters at Saint-Lô unless he storms it: it is far stronger than any other town.",
+                "link": "Victory/Into the Sea"
+            },
+            {
+                "separator": true
+            },
+            {
+                "text": "The 21st Panzer Division's tanks come up the Falaise Road on D-Day (turns 2-3), the 12th SS Panzer Division on June 7 (from turn 19) and the Panzer Lehr Division at Villers-Bocage on June 8 (turns 30-35). Infantry reserves come from Saint-Lô, the Valognes Road and the Lisieux Road."
+            },
+            {
+                "text": "The 'Arrivals' and 'Landing Point' buildings in the Civilopedia list every unit and its turn. If the enemy takes a town where reinforcements arrive by road or by glider, those still due there are lost."
+            },
+            {
+                "text": "The top bar shows the day of June (the calendar) and the hour on the 24-hour clock (the watch) next to the turn number. On D-Day each turn is one hour; on June 7 and 8, two hours. Click the turn number to see the victory status."
+            },
+            {
+                "text": "Advice: every hour the enemy is held on the beaches, more of his waves pile up offshore. Hold the strongpoints, keep your panzers out of reach of the warships' guns, and strike where his troops are still landing."
+            }
+        ],
+        "choices": [
+            {
+                "text": "Carry on"
+            },
+            {
+                "text": "Carry on (no history messages)",
+                "uniques": [
+                    "Set [History off] to [1] <hidden from users>"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "D-Day: H-Hour",
+        "text": "7 AM, June 6",
+        "civilopediaText": [
+            {
+                "text": "H-Hour: Utah and Omaha",
+                "header": 3
+            },
+            {
+                "text": "At 6:30 AM the first landing craft grounded on the American beaches."
+            },
+            {
+                "text": "At Utah the tide and the smoke carried the 8th Infantry a mile south of its target, onto a stretch of beach the bombers had wrecked. Brigadier General Theodore Roosevelt Jr., 56 years old and walking with a cane, looked over the ground and decided: 'We'll start the war from right here!'"
+            },
+            {
+                "text": "At Omaha everything went wrong. The bombs had fallen inland, most of the DD tanks had sunk on the way in, and the 352nd Division was waiting on the bluffs. On Dog Green, Company A of the 116th Infantry lost nearly every man within minutes of the ramps going down."
+            }
+        ],
+        "choices": [
+            {
+                "text": "Continue"
+            },
+            {
+                "text": "Continue (no more history messages)",
+                "uniques": [
+                    "Set [History off] to [1] <hidden from users>"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "D-Day: Pointe du Hoc",
+        "text": "8 AM, June 6",
+        "civilopediaText": [
+            {
+                "text": "The Rangers at Pointe du Hoc",
+                "header": 3
+            },
+            {
+                "text": "At 7:10 AM - forty minutes late, after the current had carried them toward the wrong headland - three companies of the 2nd Ranger Battalion under Lt. Col. James Rudder fired their rocket-propelled grapnels to the top of Pointe du Hoc and climbed a hundred feet of cliff under fire. They found the gun pits empty: the guns had been moved inland. A patrol found them in an orchard and destroyed them with thermite grenades."
+            },
+            {
+                "text": "At 7:25 the British landed on Gold and Sword, behind Hobart's 'Funnies' - flail tanks, bridge-layers and AVREs; the Canadians followed on Juno, delayed by the offshore reefs, at 7:45."
+            }
+        ],
+        "choices": [
+            {
+                "text": "Continue"
+            },
+            {
+                "text": "Continue (no more history messages)",
+                "uniques": [
+                    "Set [History off] to [1] <hidden from users>"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "D-Day: Bloody Omaha",
+        "text": "9 AM, June 6",
+        "civilopediaText": [
+            {
+                "text": "Bloody Omaha",
+                "header": 3
+            },
+            {
+                "text": "By 8:30 AM the landings at Omaha had come to a standstill: the beach was jammed with wrecked vehicles and pinned men, and the beachmasters stopped sending in vehicles. Aboard the Augusta, General Bradley thought of diverting the follow-up waves to Utah and the British beaches."
+            },
+            {
+                "text": "On the beach, officers and sergeants began to move men forward. 'Two kinds of people are staying on this beach,' said Colonel George Taylor of the 16th Infantry: 'the dead and those who are going to die. Now let's get the hell out of here!' General Norman Cota told the 5th Rangers: 'Rangers, lead the way!'"
+            }
+        ],
+        "choices": [
+            {
+                "text": "Continue"
+            },
+            {
+                "text": "Continue (no more history messages)",
+                "uniques": [
+                    "Set [History off] to [1] <hidden from users>"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "D-Day: The destroyers",
+        "text": "10 AM, June 6",
+        "civilopediaText": [
+            {
+                "text": "The destroyers go in",
+                "header": 3
+            },
+            {
+                "text": "At 9:50 AM the destroyers off Omaha - USS McCook, Carmick, Doyle, Emmons, Thompson, Frankford, Harding, Baldwin and the British Talybont, Tanatside and Melbreak - steamed in so close to the beach that their keels scraped the sand, and fired over the heads of the infantry into the German strongpoints one by one."
+            },
+            {
+                "text": "Inland, small groups of the 116th and 16th Infantry and the Rangers had climbed the bluffs between the strongpoints and were fighting their way toward Vierville, Saint-Laurent and Colleville."
+            }
+        ],
+        "choices": [
+            {
+                "text": "Continue"
+            },
+            {
+                "text": "Continue (no more history messages)",
+                "uniques": [
+                    "Set [History off] to [1] <hidden from users>"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "D-Day: The panzers wait",
+        "text": "11 AM, June 6",
+        "civilopediaText": [
+            {
+                "text": "The panzers wait",
+                "header": 3
+            },
+            {
+                "text": "The 21st Panzer Division, the only armoured division near the beaches, had been ready since the small hours. Its commander, General Feuchtinger, had spent the night in Paris. Its tanks were first sent east of the Orne against the British paratroopers, then, at 10:30 AM, ordered to turn round and attack west of the Orne - which meant driving through Caen."
+            },
+            {
+                "text": "The 12th SS Panzer and Panzer Lehr Divisions waited for release by Hitler, who had gone to bed at 3 AM and whom nobody dared to wake."
+            }
+        ],
+        "choices": [
+            {
+                "text": "Continue"
+            },
+            {
+                "text": "Continue (no more history messages)",
+                "uniques": [
+                    "Set [History off] to [1] <hidden from users>"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "D-Day: Lovat at the bridge",
+        "text": "1 PM, June 6",
+        "civilopediaText": [
+            {
+                "text": "The commandos reach Pegasus Bridge",
+                "header": 3
+            },
+            {
+                "text": "At 1:30 PM the airborne men holding the Orne bridges heard bagpipes. Lord Lovat's 1st Special Service Brigade, led by his piper Bill Millin, had fought its way six miles from Sword Beach. 'Sorry we're two and a half minutes late,' Lovat is said to have told Brigadier Poett."
+            },
+            {
+                "text": "On Omaha, at 1:30 PM, General Gerow signalled Bradley: 'Troops formerly pinned down on beaches Easy Red, Easy Green, Fox Red advancing up heights behind beaches.'"
+            }
+        ],
+        "choices": [
+            {
+                "text": "Continue"
+            },
+            {
+                "text": "Continue (no more history messages)",
+                "uniques": [
+                    "Set [History off] to [1] <hidden from users>"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "D-Day: Gold and Juno",
+        "text": "3 PM, June 6",
+        "civilopediaText": [
+            {
+                "text": "Gold and Juno",
+                "header": 3
+            },
+            {
+                "text": "On Gold, the 50th Division was off the beach and pushing inland toward Bayeux. Company Sergeant Major Stanley Hollis of the 6th Green Howards had stormed two pillboxes on Mont Fleury and saved two of his men under fire - the only Victoria Cross of D-Day. 47 Royal Marine Commando was marching west behind the German lines toward Port-en-Bessin."
+            },
+            {
+                "text": "On Juno the Canadians had fought through the seafront towns of Courseulles, Bernières and Saint-Aubin and were streaming inland, while the beach behind them jammed with traffic."
+            }
+        ],
+        "choices": [
+            {
+                "text": "Continue"
+            },
+            {
+                "text": "Continue (no more history messages)",
+                "uniques": [
+                    "Set [History off] to [1] <hidden from users>"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "D-Day: 21st Panzer attacks",
+        "text": "4 PM, June 6",
+        "civilopediaText": [
+            {
+                "text": "The 21st Panzer Division attacks",
+                "header": 3
+            },
+            {
+                "text": "At about 4 PM some forty Panzer IVs of the 22nd Panzer Regiment attacked north from Caen toward the Périers ridge, into the gap between Sword and Juno. 'If you don't succeed in throwing the British into the sea,' General Marcks told Colonel von Oppeln-Bronikowski, 'we shall have lost the war.'"
+            },
+            {
+                "text": "They ran into the 2nd King's Shropshire Light Infantry, the Staffordshire Yeomanry's Fireflies and the anti-tank guns on the ridge at Biéville and lost thirteen tanks in minutes. Only the grenadiers of the 192nd Panzergrenadier Regiment slipped through the gap."
+            }
+        ],
+        "choices": [
+            {
+                "text": "Continue"
+            },
+            {
+                "text": "Continue (no more history messages)",
+                "uniques": [
+                    "Set [History off] to [1] <hidden from users>"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "D-Day: To the sea at Lion",
+        "text": "8 PM, June 6",
+        "civilopediaText": [
+            {
+                "text": "To the sea at Lion-sur-Mer",
+                "header": 3
+            },
+            {
+                "text": "At 8 PM a battalion of the 192nd Panzergrenadier Regiment reached the coast at Lion-sur-Mer, between Juno and Sword, where a few German strongpoints still held out. For an hour it seemed the British and Canadian beaches might be split apart."
+            }
+        ],
+        "choices": [
+            {
+                "text": "Continue"
+            },
+            {
+                "text": "Continue (no more history messages)",
+                "uniques": [
+                    "Set [History off] to [1] <hidden from users>"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "D-Day: Operation Mallard",
+        "text": "9 PM, June 6",
+        "civilopediaText": [
+            {
+                "text": "Operation Mallard",
+                "header": 3
+            },
+            {
+                "text": "At 9 PM some 250 gliders and their tugs flew in over the coast and landed the 6th Airlanding Brigade beside the Orne bridges. Watching the sky fill with aircraft, the German commanders at Lion-sur-Mer feared being cut off and pulled the panzergrenadiers back from the coast."
+            },
+            {
+                "text": "Near Sainte-Mère-Église the gliders of Operation Elmira brought the 82nd Airborne its artillery, crashing into the hedgerows in the dusk."
+            }
+        ],
+        "choices": [
+            {
+                "text": "Continue"
+            },
+            {
+                "text": "Continue (no more history messages)",
+                "uniques": [
+                    "Set [History off] to [1] <hidden from users>"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "D-Day: Nightfall D-Day",
+        "text": "10 PM, June 6",
+        "civilopediaText": [
+            {
+                "text": "Nightfall, D-Day",
+                "header": 3
+            },
+            {
+                "text": "By midnight about 156,000 Allied troops were ashore in Normandy. Some 4,400 had been killed. None of the beachheads had reached its D-Day objectives: Caen, Bayeux and Carentan were still in German hands, and only Gold and Juno had joined up."
+            },
+            {
+                "text": "But the Atlantic Wall had been broken in a single day, and the German counterattack had failed. Rommel reached his headquarters at La Roche-Guyon at 10 PM."
+            },
+            {
+                "text": "Your battle: click the turn number in the top bar to see who holds how many key positions."
+            }
+        ],
+        "choices": [
+            {
+                "text": "Continue"
+            },
+            {
+                "text": "Continue (no more history messages)",
+                "uniques": [
+                    "Set [History off] to [1] <hidden from users>"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "D-Day: The first night",
+        "text": "Night of June 6-7",
+        "civilopediaText": [
+            {
+                "text": "The first night",
+                "header": 3
+            },
+            {
+                "text": "Through the night the paratroopers of the 82nd and 101st, many still lost in the hedgerows and the flooded marshes, fought small battles in the dark. Behind the German lines the panzer divisions finally began to move toward the coast - the 12th SS from around Lisieux, Panzer Lehr from Chartres, a hundred miles away."
+            }
+        ],
+        "choices": [
+            {
+                "text": "Continue"
+            },
+            {
+                "text": "Continue (no more history messages)",
+                "uniques": [
+                    "Set [History off] to [1] <hidden from users>"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "D-Day: June 7",
+        "text": "5 AM, June 7",
+        "civilopediaText": [
+            {
+                "text": "June 7: Bayeux",
+                "header": 3
+            },
+            {
+                "text": "On the morning of June 7 the 50th Division entered Bayeux, undefended and almost untouched - the first town of any size liberated in France. The 7th Armoured Division, the 'Desert Rats', was coming ashore on Gold."
+            },
+            {
+                "text": "The 12th SS Panzer Division 'Hitlerjugend', its grenadiers mostly eighteen years old, was arriving west of Caen. Its commander, Kurt Meyer, climbed a tower of the Abbaye d'Ardenne and watched the Canadians advancing across the plain toward Carpiquet."
+            }
+        ],
+        "choices": [
+            {
+                "text": "Continue"
+            },
+            {
+                "text": "Continue (no more history messages)",
+                "uniques": [
+                    "Set [History off] to [1] <hidden from users>"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "D-Day: Pointe du Hoc holds",
+        "text": "11 AM, June 7",
+        "civilopediaText": [
+            {
+                "text": "Pointe du Hoc holds",
+                "header": 3
+            },
+            {
+                "text": "On the cliffs at Pointe du Hoc, Rudder's Rangers - fewer than a hundred men still able to fight - beat off one German counterattack after another, short of ammunition and cut off from Omaha. They would be relieved on June 8."
+            },
+            {
+                "text": "At Sainte-Mère-Église, the 82nd Airborne beat off the 1058th Grenadier Regiment's attack from the north with the help of tanks from Utah Beach."
+            }
+        ],
+        "choices": [
+            {
+                "text": "Continue"
+            },
+            {
+                "text": "Continue (no more history messages)",
+                "uniques": [
+                    "Set [History off] to [1] <hidden from users>"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "D-Day: Authie and Buron",
+        "text": "1 PM, June 7",
+        "civilopediaText": [
+            {
+                "text": "Authie and Buron",
+                "header": 3
+            },
+            {
+                "text": "In the afternoon of June 7 the 25th SS Panzergrenadier Regiment struck the North Nova Scotia Highlanders and the Sherbrooke Fusiliers at Authie and Buron, a few miles short of Carpiquet, and drove them back with heavy losses. That evening and over the next days, the Hitlerjugend murdered more than a hundred and fifty Canadian prisoners, among them eighteen at the Abbaye d'Ardenne."
+            },
+            {
+                "text": "The Canadians dug in. Carpiquet and Caen would hold out for another month."
+            }
+        ],
+        "choices": [
+            {
+                "text": "Continue"
+            },
+            {
+                "text": "Continue (no more history messages)",
+                "uniques": [
+                    "Set [History off] to [1] <hidden from users>"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "D-Day: Port-en-Bessin",
+        "text": "9 PM, June 7",
+        "civilopediaText": [
+            {
+                "text": "Port-en-Bessin",
+                "header": 3
+            },
+            {
+                "text": "Night fell on June 7. At Port-en-Bessin, 47 Royal Marine Commando - having lost most of its radios and a good deal of its equipment in the landing - fought its way into the harbour between the clifftop strongpoints, and by the morning of June 8 the town was taken: the British and American beachheads touched."
+            }
+        ],
+        "choices": [
+            {
+                "text": "Continue"
+            },
+            {
+                "text": "Continue (no more history messages)",
+                "uniques": [
+                    "Set [History off] to [1] <hidden from users>"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "D-Day: June 8",
+        "text": "5 AM, June 8",
+        "civilopediaText": [
+            {
+                "text": "June 8: Panzer Lehr",
+                "header": 3
+            },
+            {
+                "text": "The Panzer Lehr Division reached the front around Tilly-sur-Seulles after a ninety-mile march by daylight, ordered against the advice of its commander, Fritz Bayerlein. Allied fighter-bombers had destroyed scores of its vehicles on the roads, and its soldiers called the highway the 'fighter-bomber racetrack'."
+            },
+            {
+                "text": "General Montgomery came ashore and set up his tactical headquarters in the grounds of the Château de Creullet."
+            }
+        ],
+        "choices": [
+            {
+                "text": "Continue"
+            },
+            {
+                "text": "Continue (no more history messages)",
+                "uniques": [
+                    "Set [History off] to [1] <hidden from users>"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "D-Day: Putot and Norrey",
+        "text": "9 AM, June 8",
+        "civilopediaText": [
+            {
+                "text": "Putot and Norrey",
+                "header": 3
+            },
+            {
+                "text": "On June 8 the 26th SS Panzergrenadier Regiment attacked the Royal Winnipeg Rifles at Putot-en-Bessin and overran several companies; in the evening the Canadian Scottish counterattacked and retook the village. At Norrey and Bretteville the Regina Rifles held out through a night of Panther attacks."
+            },
+            {
+                "text": "To the west, the Rangers at Pointe du Hoc were relieved, and the 29th Division fought its way toward Isigny."
+            }
+        ],
+        "choices": [
+            {
+                "text": "Continue"
+            },
+            {
+                "text": "Continue (no more history messages)",
+                "uniques": [
+                    "Set [History off] to [1] <hidden from users>"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "D-Day: Nightfall June 8",
+        "text": "9 PM, June 8",
+        "civilopediaText": [
+            {
+                "text": "Nightfall, June 8",
+                "header": 3
+            },
+            {
+                "text": "Three days after the landings the Allies held a strip of coast fifty miles long and up to ten miles deep. Isigny fell that night, and on June 12 the 101st Airborne took Carentan, joining Utah and Omaha into one beachhead."
+            },
+            {
+                "text": "It took six more weeks of hedgerow fighting before the Americans reached Saint-Lô and the British and Canadians took Caen. On July 25 Operation Cobra broke the German front; Paris was liberated on August 25."
+            },
+            {
+                "text": "Your battle: Hold the Beachhead is decided from the end of this turn."
+            }
+        ],
+        "choices": [
+            {
+                "text": "Continue"
+            },
+            {
+                "text": "Continue (no more history messages)",
+                "uniques": [
+                    "Set [History off] to [1] <hidden from users>"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "D-Day: Last light",
+        "text": "7 PM, June 8",
+        "civilopediaText": [
+            {
+                "text": "Last light",
+                "header": 3
+            },
+            {
+                "text": "Two turns are left: this one and turn 38 (9 PM, June 8). At the end of turn 38 the Allies win if they hold at least 10 key positions; otherwise Germany wins. Click the turn number in the top bar to see the count."
+            }
+        ],
+        "choices": [
+            {
+                "text": "Continue"
+            }
+        ]
+    }
+]

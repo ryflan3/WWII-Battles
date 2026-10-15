@@ -1,0 +1,1303 @@
+[
+    {
+        "name": "Rally",
+        "uniques": [
+            "[This Unit] heals [50] HP",
+            "Doing so will consume this opportunity to choose a Promotion"
+        ],
+        "unitTypes": [
+            "Infantry",
+            "Airborne",
+            "Armor",
+            "Anti-Tank",
+            "Artillery",
+            "Fortification",
+            "Warship"
+        ],
+        "column": 0,
+        "row": 0,
+        "civilopediaText": [
+            {
+                "text": "Replacements come forward, the wounded are evacuated and the survivors are reorganised."
+            }
+        ]
+    },
+    {
+        "name": "Dug In I",
+        "uniques": [
+            "[+15]% Strength <when defending>"
+        ],
+        "unitTypes": [
+            "Infantry",
+            "Airborne",
+            "Anti-Tank"
+        ],
+        "column": 1,
+        "row": 1,
+        "civilopediaText": [
+            {
+                "text": "Slit trenches, fields of fire and wire."
+            }
+        ]
+    },
+    {
+        "name": "Dug In II",
+        "uniques": [
+            "[+15]% Strength <when defending>"
+        ],
+        "unitTypes": [
+            "Infantry",
+            "Airborne",
+            "Anti-Tank"
+        ],
+        "column": 1,
+        "row": 2,
+        "prerequisites": [
+            "Dug In I"
+        ]
+    },
+    {
+        "name": "Dug In III",
+        "uniques": [
+            "[+15]% Strength <when defending>"
+        ],
+        "unitTypes": [
+            "Infantry",
+            "Airborne",
+            "Anti-Tank"
+        ],
+        "column": 1,
+        "row": 3,
+        "prerequisites": [
+            "Dug In II"
+        ]
+    },
+    {
+        "name": "Assault I",
+        "uniques": [
+            "[+15]% Strength <when attacking>"
+        ],
+        "unitTypes": [
+            "Infantry",
+            "Airborne"
+        ],
+        "column": 2,
+        "row": 1,
+        "civilopediaText": [
+            {
+                "text": "Fire and movement: one section pins the enemy down while the other works round his flank."
+            }
+        ]
+    },
+    {
+        "name": "Assault II",
+        "uniques": [
+            "[+15]% Strength <when attacking>"
+        ],
+        "unitTypes": [
+            "Infantry",
+            "Airborne"
+        ],
+        "column": 2,
+        "row": 2,
+        "prerequisites": [
+            "Assault I"
+        ]
+    },
+    {
+        "name": "Assault III",
+        "uniques": [
+            "[+15]% Strength <when attacking>"
+        ],
+        "unitTypes": [
+            "Infantry",
+            "Airborne"
+        ],
+        "column": 2,
+        "row": 3,
+        "prerequisites": [
+            "Assault II"
+        ]
+    },
+    {
+        "name": "Hedgerow Fighting",
+        "uniques": [
+            "[+20]% Strength <when fighting in [Rough terrain] tiles>"
+        ],
+        "unitTypes": [
+            "Infantry",
+            "Airborne"
+        ],
+        "column": 3,
+        "row": 1,
+        "civilopediaText": [
+            {
+                "text": "Every field in the bocage was a fortress: banks of earth topped with hedges, entered only by a gate the enemy had already covered. Units learned to blast holes in the banks and clear one field at a time."
+            }
+        ]
+    },
+    {
+        "name": "Street Fighting",
+        "uniques": [
+            "[+25]% Strength <vs cities>"
+        ],
+        "unitTypes": [
+            "Infantry",
+            "Airborne"
+        ],
+        "column": 3,
+        "row": 2,
+        "prerequisites": [
+            "Hedgerow Fighting"
+        ],
+        "civilopediaText": [
+            {
+                "text": "Clearing a town house by house, going through the walls rather than down the street."
+            }
+        ]
+    },
+    {
+        "name": "Bazooka Teams",
+        "uniques": [
+            "[+33]% Strength <vs [Armor] units>"
+        ],
+        "unitTypes": [
+            "Infantry",
+            "Airborne"
+        ],
+        "column": 4,
+        "row": 1,
+        "civilopediaText": [
+            {
+                "text": "Bazookas, PIATs and Panzerfausts: infantry that can stand up to tanks."
+            }
+        ]
+    },
+    {
+        "name": "Forced March",
+        "uniques": [
+            "[+1] Movement"
+        ],
+        "unitTypes": [
+            "Infantry",
+            "Airborne"
+        ],
+        "column": 4,
+        "row": 2,
+        "prerequisites": [
+            "Dug In I",
+            "Assault I"
+        ],
+        "civilopediaText": [
+            {
+                "text": "Fit, hardened troops who can march all night and fight at dawn."
+            }
+        ]
+    },
+    {
+        "name": "Veterans",
+        "uniques": [
+            "No damage penalty for wounded units"
+        ],
+        "unitTypes": [
+            "Infantry",
+            "Airborne",
+            "Armor"
+        ],
+        "column": 5,
+        "row": 3,
+        "prerequisites": [
+            "Dug In II",
+            "Assault II",
+            "Gunnery II"
+        ],
+        "civilopediaText": [
+            {
+                "text": "Units that keep fighting at half strength without breaking."
+            }
+        ]
+    },
+    {
+        "name": "Battalion Aid Station",
+        "uniques": [
+            "All adjacent units heal [+5] HP when healing"
+        ],
+        "unitTypes": [
+            "Infantry",
+            "Airborne"
+        ],
+        "column": 5,
+        "row": 1,
+        "prerequisites": [
+            "Dug In I",
+            "Assault I"
+        ]
+    },
+    {
+        "name": "Gunnery I",
+        "uniques": [
+            "[+15]% Strength <when attacking>"
+        ],
+        "unitTypes": [
+            "Armor"
+        ],
+        "column": 6,
+        "row": 1,
+        "civilopediaText": [
+            {
+                "text": "Fast, accurate tank gunnery: the first hit wins."
+            }
+        ]
+    },
+    {
+        "name": "Gunnery II",
+        "uniques": [
+            "[+15]% Strength <when attacking>"
+        ],
+        "unitTypes": [
+            "Armor"
+        ],
+        "column": 6,
+        "row": 2,
+        "prerequisites": [
+            "Gunnery I"
+        ]
+    },
+    {
+        "name": "Gunnery III",
+        "uniques": [
+            "[+15]% Strength <when attacking>"
+        ],
+        "unitTypes": [
+            "Armor"
+        ],
+        "column": 6,
+        "row": 3,
+        "prerequisites": [
+            "Gunnery II"
+        ]
+    },
+    {
+        "name": "Hull Down",
+        "uniques": [
+            "[+25]% Strength <when defending>"
+        ],
+        "unitTypes": [
+            "Armor"
+        ],
+        "column": 7,
+        "row": 1,
+        "civilopediaText": [
+            {
+                "text": "Firing from behind a crest or a bank with only the turret showing."
+            }
+        ]
+    },
+    {
+        "name": "Tank Killers",
+        "uniques": [
+            "[+25]% Strength <vs [Armor] units>"
+        ],
+        "unitTypes": [
+            "Armor",
+            "Anti-Tank"
+        ],
+        "column": 7,
+        "row": 2,
+        "prerequisites": [
+            "Gunnery I"
+        ]
+    },
+    {
+        "name": "Exploitation",
+        "uniques": [
+            "[+1] Movement"
+        ],
+        "unitTypes": [
+            "Armor"
+        ],
+        "column": 7,
+        "row": 3,
+        "prerequisites": [
+            "Gunnery II"
+        ],
+        "civilopediaText": [
+            {
+                "text": "Pushing through the gap before the enemy can close it."
+            }
+        ]
+    },
+    {
+        "name": "Infantry Support",
+        "uniques": [
+            "[+25]% Strength <vs [Infantry] units>"
+        ],
+        "unitTypes": [
+            "Armor"
+        ],
+        "column": 8,
+        "row": 1,
+        "civilopediaText": [
+            {
+                "text": "Tanks and infantry trained together, the tanks shooting the infantry onto their objectives."
+            }
+        ]
+    },
+    {
+        "name": "Fire Direction I",
+        "uniques": [
+            "[+15]% Strength <when attacking>"
+        ],
+        "unitTypes": [
+            "Artillery",
+            "Fortification"
+        ],
+        "column": 9,
+        "row": 1,
+        "civilopediaText": [
+            {
+                "text": "Forward observers with radios, and a fire direction centre that plots every shot."
+            }
+        ]
+    },
+    {
+        "name": "Fire Direction II",
+        "uniques": [
+            "[+15]% Strength <when attacking>"
+        ],
+        "unitTypes": [
+            "Artillery",
+            "Fortification"
+        ],
+        "column": 9,
+        "row": 2,
+        "prerequisites": [
+            "Fire Direction I"
+        ]
+    },
+    {
+        "name": "Fire Direction III",
+        "uniques": [
+            "[+15]% Strength <when attacking>"
+        ],
+        "unitTypes": [
+            "Artillery",
+            "Fortification"
+        ],
+        "column": 9,
+        "row": 3,
+        "prerequisites": [
+            "Fire Direction II"
+        ]
+    },
+    {
+        "name": "Counter-Battery",
+        "uniques": [
+            "[+33]% Strength <vs [Artillery] units>"
+        ],
+        "unitTypes": [
+            "Artillery",
+            "Fortification"
+        ],
+        "column": 10,
+        "row": 1,
+        "prerequisites": [
+            "Fire Direction I"
+        ]
+    },
+    {
+        "name": "Air Observation Post",
+        "uniques": [
+            "[+1] Sight"
+        ],
+        "unitTypes": [
+            "Artillery"
+        ],
+        "column": 10,
+        "row": 2,
+        "prerequisites": [
+            "Fire Direction I"
+        ],
+        "civilopediaText": [
+            {
+                "text": "Little Auster and Piper Cub spotter planes, flown by artillery officers, adjusting fire from above."
+            }
+        ]
+    },
+    {
+        "name": "Long Range",
+        "uniques": [
+            "[+1] Range"
+        ],
+        "unitTypes": [
+            "Artillery",
+            "Fortification",
+            "Warship"
+        ],
+        "column": 10,
+        "row": 3,
+        "prerequisites": [
+            "Fire Direction III",
+            "Naval Gunfire II"
+        ]
+    },
+    {
+        "name": "Shoot and Scoot",
+        "uniques": [
+            "Can move after attacking"
+        ],
+        "unitTypes": [
+            "Artillery"
+        ],
+        "column": 11,
+        "row": 2,
+        "prerequisites": [
+            "Fire Direction II"
+        ],
+        "civilopediaText": [
+            {
+                "text": "Fire, limber up and move before the counter-battery fire lands."
+            }
+        ]
+    },
+    {
+        "name": "Ambush",
+        "uniques": [
+            "[+25]% Strength <when defending> <when fighting in [Rough terrain] tiles>"
+        ],
+        "unitTypes": [
+            "Anti-Tank"
+        ],
+        "column": 12,
+        "row": 1,
+        "civilopediaText": [
+            {
+                "text": "Guns dug in behind a hedgerow, held until the tanks are a hundred yards away."
+            }
+        ]
+    },
+    {
+        "name": "Naval Gunfire I",
+        "uniques": [
+            "[+20]% Strength <vs [Land] units>"
+        ],
+        "unitTypes": [
+            "Warship"
+        ],
+        "column": 13,
+        "row": 1,
+        "civilopediaText": [
+            {
+                "text": "Shore fire control parties landed with the assault troops call down the ships' guns by radio."
+            }
+        ]
+    },
+    {
+        "name": "Naval Gunfire II",
+        "uniques": [
+            "[+20]% Strength <vs [Land] units>"
+        ],
+        "unitTypes": [
+            "Warship"
+        ],
+        "column": 13,
+        "row": 2,
+        "prerequisites": [
+            "Naval Gunfire I"
+        ]
+    },
+    {
+        "name": "Damage Control",
+        "uniques": [
+            "[+25]% Strength <when defending>",
+            "[+10] HP when healing"
+        ],
+        "unitTypes": [
+            "Warship"
+        ],
+        "column": 14,
+        "row": 1
+    },
+    {
+        "name": "Matthew B. Ridgway",
+        "uniques": [
+            "[+25]% Strength bonus for [Airborne] units within [2] tiles"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Commanding the 82nd Airborne Division. He jumped with his men and spent D-Day in an orchard outside Sainte-Mère-Église, cut off from the beaches and from half his division. Airborne troops within 2 tiles get +25%."
+            }
+        ]
+    },
+    {
+        "name": "James M. Gavin",
+        "uniques": [
+            "[+25]% Strength bonus for [{Military} {Land}] units within [1] tiles",
+            "[+1] Movement"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "'Jumping Jim', assistant commander of the 82nd Airborne, aged 37. He led the fight for the La Fière causeway over the Merderet in person, rifle in hand."
+            }
+        ]
+    },
+    {
+        "name": "Maxwell D. Taylor",
+        "uniques": [
+            "[+20]% Strength bonus for [Airborne] units within [2] tiles"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Commanding the 101st Airborne Division ('Screaming Eagles'). Landing alone in a field, he gathered a scratch force of officers - 'Never were so few led by so many' - and took Pouppeville, the southern exit from Utah Beach."
+            }
+        ]
+    },
+    {
+        "name": "Theodore Roosevelt Jr.",
+        "uniques": [
+            "[+25]% Strength bonus for [{Military} {Land}] units within [2] tiles <when attacking>"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Assistant commander of the 4th Division, 56 years old, the oldest man - and the only general - in the first wave. Finding the 8th Infantry had landed a mile south of its target, he walked the beach with his cane and decided: 'We'll start the war from right here!' He received the Medal of Honor and died of a heart attack five weeks later."
+            }
+        ]
+    },
+    {
+        "name": "Raymond O. Barton",
+        "uniques": [
+            "[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Commanding the 4th Infantry Division, which landed on Utah Beach with fewer than 200 casualties."
+            }
+        ]
+    },
+    {
+        "name": "Norman D. Cota",
+        "uniques": [
+            "[+25]% Strength bonus for [{Military} {Land}] units within [1] tiles",
+            "[+1] Movement"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "'Dutch' Cota, assistant commander of the 29th Division, landed on Omaha at 7:30 AM and walked the beach under fire rallying the pinned-down troops. To the 5th Rangers he said: 'Rangers, lead the way!' - and led them up the bluff."
+            }
+        ]
+    },
+    {
+        "name": "Charles H. Gerhardt",
+        "uniques": [
+            "[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "'Uncle Charlie', the exacting commander of the 29th Division ('Twenty-nine, let's go!'), who came ashore on Omaha in the evening of D-Day."
+            }
+        ]
+    },
+    {
+        "name": "Clarence R. Huebner",
+        "uniques": [
+            "[+20]% Strength bonus for [{Military} {Land}] units within [2] tiles <when defending>"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Commanding the 1st Infantry Division - 'the Big Red One' - which had already made assault landings in North Africa and Sicily before Omaha."
+            }
+        ]
+    },
+    {
+        "name": "Leonard T. Gerow",
+        "uniques": [
+            "[+15]% Strength bonus for [{Military} {Land}] units within [3] tiles"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Commanding V Corps at Omaha. At 1:30 PM he signalled Bradley: 'Troops formerly pinned down on beaches Easy Red, Easy Green, Fox Red advancing up heights behind beaches.'"
+            }
+        ]
+    },
+    {
+        "name": "J. Lawton Collins",
+        "uniques": [
+            "[+15]% Strength bonus for [{Military} {Land}] units within [3] tiles",
+            "[+1] Movement"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "'Lightning Joe', commanding VII Corps at Utah Beach, the fastest-driving corps commander in the US Army."
+            }
+        ]
+    },
+    {
+        "name": "Omar N. Bradley",
+        "uniques": [
+            "[+20]% Strength bonus for [{Military} {Land}] units within [3] tiles"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Commanding the US First Army. Watching Omaha from the cruiser Augusta, he considered diverting the follow-up waves to Utah and the British beaches."
+            }
+        ]
+    },
+    {
+        "name": "Bernard L. Montgomery",
+        "uniques": [
+            "[+20]% Strength bonus for [{Military} {Land}] units within [3] tiles"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Commanding the 21st Army Group - all Allied ground forces in Normandy. He came ashore on June 8 and set up his tactical headquarters at Creullet, near Creully."
+            }
+        ]
+    },
+    {
+        "name": "Miles Dempsey",
+        "uniques": [
+            "[+15]% Strength bonus for [{Military} {Land}] units within [3] tiles"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Commanding the British Second Army, which landed the British and Canadian divisions on Gold, Juno and Sword."
+            }
+        ]
+    },
+    {
+        "name": "John Crocker",
+        "uniques": [
+            "[+15]% Strength bonus for [{Military} {Land}] units within [3] tiles"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Commanding I Corps: the British 3rd and 3rd Canadian Divisions and the 6th Airborne."
+            }
+        ]
+    },
+    {
+        "name": "Gerard Bucknall",
+        "uniques": [
+            "[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Commanding XXX Corps, whose 50th Division landed on Gold Beach."
+            }
+        ]
+    },
+    {
+        "name": "G. W. E. J. Erskine",
+        "uniques": [
+            "[+20]% Strength bonus for [Armor] units within [2] tiles"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Commanding the 7th Armoured Division, the 'Desert Rats', veterans of El Alamein and Tunisia."
+            }
+        ]
+    },
+    {
+        "name": "Douglas Graham",
+        "uniques": [
+            "[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Commanding the 50th (Northumbrian) Division on Gold Beach. By nightfall its patrols were on the edge of Bayeux."
+            }
+        ]
+    },
+    {
+        "name": "Tom Rennie",
+        "uniques": [
+            "[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Commanding the British 3rd Division on Sword Beach, whose objective for D-Day was Caen."
+            }
+        ]
+    },
+    {
+        "name": "Rod Keller",
+        "uniques": [
+            "[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles <when attacking>"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Commanding the 3rd Canadian Division on Juno Beach. One Canadian troop of tanks reached the Caen-Bayeux railway, the deepest Allied penetration of D-Day."
+            }
+        ]
+    },
+    {
+        "name": "Richard N. Gale",
+        "uniques": [
+            "[+20]% Strength bonus for [Airborne] units within [2] tiles <when defending>"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "'Windy' Gale, commanding the 6th Airborne Division, landed by glider at 3:30 AM. His orders were to seize the Orne bridges and hold the left flank of the whole invasion."
+            }
+        ]
+    },
+    {
+        "name": "James Hill",
+        "uniques": [
+            "[+20]% Strength bonus for [Airborne] units within [2] tiles"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Brigadier commanding the 3rd Parachute Brigade. Wounded in the night by a stray Allied bomb, he still made it to his headquarters and ran his brigade's battle: 'Gentlemen, in spite of your excellent orders and training, do not be daunted if chaos reigns. It undoubtedly will.'"
+            }
+        ]
+    },
+    {
+        "name": "Lord Lovat",
+        "uniques": [
+            "[+25]% Strength bonus for [Infantry] units within [1] tiles",
+            "[+1] Movement"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Brigadier Simon Fraser, Lord Lovat, commanding the 1st Special Service Brigade. He waded ashore on Sword with his piper, Bill Millin, playing, marched his commandos inland and reached Pegasus Bridge at 1:30 PM - 'two and a half minutes late'."
+            }
+        ]
+    },
+    {
+        "name": "Erich Marcks",
+        "uniques": [
+            "[+20]% Strength bonus for [{Military} {Land}] units within [3] tiles <when defending>"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Commanding LXXXIV Corps from Saint-Lô. One of the few German commanders who expected the landings in Normandy; on D-Day he was preparing a map exercise for the next morning. He had lost a leg in Russia and was killed by an Allied fighter-bomber on June 12."
+            }
+        ]
+    },
+    {
+        "name": "Erwin Rommel",
+        "uniques": [
+            "[+20]% Strength bonus for [{Military} {Land}] units within [3] tiles <when defending>"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Field Marshal commanding Army Group B. He had spent five months fortifying the coast - 'the first twenty-four hours of the invasion will be decisive' - but on June 6 he was at home in Germany for his wife's birthday, and did not get back to his headquarters until evening."
+            }
+        ]
+    },
+    {
+        "name": "Friedrich Dollmann",
+        "uniques": [
+            "[+15]% Strength bonus for [{Military} {Land}] units within [3] tiles"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Commanding the Seventh Army, which defended Normandy and Brittany."
+            }
+        ]
+    },
+    {
+        "name": "Dietrich Kraiss",
+        "uniques": [
+            "[+20]% Strength bonus for [{Military} {Land}] units within [2] tiles <when defending>"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Commanding the 352nd Infantry Division, which held Omaha Beach and very nearly threw the Americans back into the sea."
+            }
+        ]
+    },
+    {
+        "name": "Wilhelm Richter",
+        "uniques": [
+            "[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles <when defending>"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Commanding the 716th Static Division, spread along 21 miles of coast from Gold to the Orne. By the end of D-Day it had practically ceased to exist."
+            }
+        ]
+    },
+    {
+        "name": "Karl-Wilhelm von Schlieben",
+        "uniques": [
+            "[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Commanding the 709th Static Division in the Cotentin. He later surrendered Cherbourg on June 26."
+            }
+        ]
+    },
+    {
+        "name": "Wilhelm Falley",
+        "uniques": [
+            "[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Commanding the 91st Air Landing Division. Driving back from Rennes in the night, he was ambushed by American paratroopers near Picauville and killed - the first German general to die in the invasion."
+            }
+        ]
+    },
+    {
+        "name": "Friedrich von der Heydte",
+        "uniques": [
+            "[+25]% Strength bonus for [Airborne] units within [2] tiles"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Major commanding the 6th Fallschirmjäger Regiment. From the church tower of Saint-Côme-du-Mont he watched the invasion fleet lying off Utah Beach, then fought the 101st Airborne for Carentan."
+            }
+        ]
+    },
+    {
+        "name": "Edgar Feuchtinger",
+        "uniques": [
+            "[+15]% Strength bonus for [Armor] units within [2] tiles"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Commanding the 21st Panzer Division - the only panzer division near the beaches. He was away in Paris on the night of June 5, and his division waited for hours for orders that came too late."
+            }
+        ]
+    },
+    {
+        "name": "Hans von Luck",
+        "uniques": [
+            "[+25]% Strength bonus for [{Military} {Land}] units within [1] tiles <when attacking>",
+            "[+1] Movement"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Major commanding the 125th Panzergrenadier Regiment east of the Orne. He had his men ready from 1 AM but was forbidden to attack the British paratroopers without orders from above."
+            }
+        ]
+    },
+    {
+        "name": "Hermann von Oppeln-Bronikowski",
+        "uniques": [
+            "[+20]% Strength bonus for [Armor] units within [2] tiles"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Colonel commanding the 22nd Panzer Regiment, a gold medallist in dressage at the 1936 Olympics. His tanks struck at the gap between Juno and Sword in the afternoon of D-Day."
+            }
+        ]
+    },
+    {
+        "name": "Kurt Meyer",
+        "uniques": [
+            "[+20]% Strength bonus for [{Military} {Land}] units within [2] tiles <when attacking>"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Commanding the 25th SS Panzergrenadier Regiment of the 12th SS Panzer Division, which attacked the Canadians at Authie and Buron on June 7. After the war a Canadian military court convicted him of responsibility for the murder of Canadian prisoners by his troops."
+            }
+        ]
+    },
+    {
+        "name": "Fritz Witt",
+        "uniques": [
+            "[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Commanding the 12th SS Panzer Division 'Hitlerjugend'. He was killed by naval gunfire at his headquarters on June 14."
+            }
+        ]
+    },
+    {
+        "name": "Sepp Dietrich",
+        "uniques": [
+            "[+15]% Strength bonus for [{Military} {Land}] units within [3] tiles"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Commanding I SS Panzer Corps, sent to drive the British and Canadians back into the sea around Caen. A veteran Nazi party member, he was later convicted of war crimes for the Malmedy massacre of December 1944."
+            }
+        ]
+    },
+    {
+        "name": "Fritz Bayerlein",
+        "uniques": [
+            "[+20]% Strength bonus for [Armor] units within [2] tiles"
+        ],
+        "innerColor": [
+            255,
+            255,
+            255
+        ],
+        "outerColor": [
+            60,
+            70,
+            50
+        ],
+        "civilopediaText": [
+            {
+                "text": "Commanding the Panzer Lehr Division. Ordered to march by day on June 7, it lost scores of vehicles to Allied fighter-bombers on the road - the troops called it the 'fighter-bomber racetrack'."
+            }
+        ]
+    }
+]
