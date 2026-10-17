@@ -22,7 +22,9 @@ You need **Unciv 4.22.9 or newer** (the scenario was built with 4.22.9, and olde
 2. Paste `https://github.com/ryflan3/WWII-Battles` and press **Download**.
 3. Check that the mod appears in the Mods list as exactly **WWII Battles**.
 
-The installed name must be exactly that, because the scenario and the map refer to the ruleset by name. Unciv builds the name from the repository name and the default branch, so the default branch must be a simple name such as `main` (see *Final steps* below). If the mod shows up with extra words, such as *WWII Battles ccr 48c75dff …*, see *Troubleshooting*.
+The installed name must be exactly that, because the scenario and the map refer to the ruleset by name. Unciv builds the name from the repository name and the branch, and strips the branch name off again. That works for any branch name without a slash (`/`). If the mod shows up with extra words, such as *WWII Battles claude …*, see *Troubleshooting*.
+
+Instead of the repository link you can also paste the link to a branch (`https://github.com/ryflan3/WWII-Battles/tree/<branch>`) or to its zip file (`https://github.com/ryflan3/WWII-Battles/archive/refs/heads/<branch>.zip`).
 
 Once the repository has the `unciv-mod` topic (see *Final steps* below), it also appears in Unciv's built-in mod list.
 
@@ -107,7 +109,7 @@ That is free play, not the battle: the game was started with **Map Type: Custom*
 
 Your copy of the mod is installed under the wrong name, so Unciv can't find the *WWII Battles* ruleset that the scenario needs. The custom map still works with a wrongly named copy, which makes this easy to miss.
 
-**Check:** on the New Game screen, open the **Base Ruleset** list. It must contain exactly `WWII Battles`. A longer name, such as `WWII Battles ccr 48c75dff vcd35d` or `WWII Battles main`, is a broken copy. It comes from a download made while the repository's default branch was not `main`, or from a link to a specific branch.
+**Check:** on the New Game screen, open the **Base Ruleset** list. It must contain exactly `WWII Battles`. A longer name, such as `WWII Battles claude unciv …`, is a broken copy. It comes from a download of a branch whose name contains a slash (`/`): Unciv cannot strip such a name off cleanly.
 
 **Fix:**
 
@@ -166,7 +168,7 @@ The landmarks are special tiles with their own art, defense and elevation, and e
 
 ## Final steps for you
 
-1. **Rename the default branch to `main` (required).** Unciv downloads a mod from the repository's default branch and names the mod after the repository and that branch. It only strips simple branch names cleanly: with `ccr-48c75dff-vcd35d`, the mod installs under the wrong name and the scenario cannot start (see *Troubleshooting*). On GitHub, open the repository → **Settings** → **General** → **Default branch**, click the pencil icon (*Rename branch*), type `main` and confirm. GitHub moves all the files and history to `main` and redirects links to the old name.
+1. **Optional: rename the default branch to `main`.** It is not needed: Unciv's own download code was run on this repository with the current default branch (`ccr-48c75dff-vcd35d`), and the mod installed as **WWII Battles**. `main` is just tidier. If you do rename it, don't choose a name with a slash (`/`) in it, such as `claude/…`: Unciv cannot strip such a name off and installs the mod under the wrong name (see *Troubleshooting*). To rename: on GitHub, open the repository → **Settings** → **General** → **Default branch**, click the pencil icon (*Rename branch*), type `main` and confirm.
 2. **Add GitHub topics** so Unciv's mod browser lists the mod: on the repository page, click the gear next to *About* and add `unciv-mod`, `unciv-mod-rulesets` and `unciv-mod-maps`.
 3. **Install and test in Unciv** (see *Install* above), then play a few turns of the scenario as each side.
 4. **Optional:** add a `LICENSE` file if you want others to reuse the mod (MIT or CC-BY are common for Unciv mods).
@@ -220,6 +222,7 @@ tools/          generators and the Unciv-engine build tool (tools/cwtool)
 
 * Unciv 4.22.9's own ruleset validator (the in-game "Locate mod errors" check) reports **no problems**.
 * The map and the five scenario saves were written and read back by the real Unciv 4.22.9 engine (`tools/cwtool`).
+* Unciv's own *Download mod from URL* code was run on this repository on GitHub with the repository link, the branch link and the branch's zip link. Each one installed the mod as **WWII Battles**, and the scenario started from the downloaded copy.
 * The scenario was loaded the same way Unciv's New Game screen loads it, and the computer played the whole battle from each seat. The armies started at war, with the terrain revealed, enemy units hidden and no barbarians. The briefing and the history messages appeared on their turns, every arrival appeared on its turn with its historical name, and no city was razed.
 * That test found a trap in how Unciv starts a scenario: the New Game screen runs the first player's turn start once with the turn counter at 1, then sets it back to 0. Anything due on turn 1 would arrive twice. So the units due at 7 AM (the 5th Rangers, the 22nd Infantry, Lord Lovat and his commandos, and the 352nd Fusiliers) start on the map instead, at their entry points.
 * **No crashes.** An early version let the DD tanks swim without embarking. In about 1 battle in 60 that tripped an error inside Unciv's own AI pathfinding and crashed the game. The DD tanks now come in like the other waves, as landing craft with their own swimming-tank picture, and over 250 test battles since then none crashed.
